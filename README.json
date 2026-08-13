@@ -1,0 +1,487 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Resources"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "A plugin for the AsyncPG database driver.*",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-11T13:04:26Z",
+            "owner": "litestar-org",
+            "repo": "litestar-asyncpg",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "A Vite adapter for Litestar.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2024-08-05T23:21:23Z",
+            "owner": "litestar-org",
+            "repo": "vite-plugin",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "A Piccolo ORM adapter for Litestar.*",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-11-25T15:40:51Z",
+            "owner": "litestar-org",
+            "repo": "litestar-piccolo",
+            "stars": 6
+          }
+        }
+      ],
+      "title": "Internal Utils"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Third-Party Extensions"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "Cute DI framework with agreeable API and everything you need, including Litestar integration.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T22:15:24Z",
+            "owner": "reagento",
+            "repo": "dishka",
+            "stars": 1233
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "Dependency injection framework with IoC container and scopes, including Litestar integration.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-03T19:21:05Z",
+            "owner": "modern-python",
+            "repo": "modern-di",
+            "stars": 61
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "A plugin for the Granian HTTP server, written in Rust.*",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-06T14:33:08Z",
+            "owner": "cofin",
+            "repo": "litestar-granian",
+            "stars": 44
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "A plugin for the SAQ job queuing framework*",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-05T03:41:11Z",
+            "owner": "litestar-org",
+            "repo": "litestar-saq",
+            "stars": 31
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "Taskiq integration for Litestar.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-25T09:15:37Z",
+            "owner": "taskiq-python",
+            "repo": "taskiq-litestar",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "A plugin for the SVCS service locater/dependency injection library.*",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-11-30T13:25:15Z",
+            "owner": "vkcku",
+            "repo": "litestar-svcs",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "Proof of concept using SAQ, Litestar, HTMX, and Server-Sent events for a simple SAQ job monitor.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2024-03-11T08:30:12Z",
+            "owner": "euri10",
+            "repo": "litestar_saq_htmx",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "A plugin for the MQTT protocol.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-08-31T08:26:29Z",
+            "owner": "Alurith",
+            "repo": "litestar-mqtt",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "A plugin for the aiosql database query builder.*",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Makefile",
+            "last_commit": "2024-09-17T16:30:38Z",
+            "owner": "cofin",
+            "repo": "litestar-aiosql",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "A plugin for the Psycopg database driver.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-05-17T16:13:18Z",
+            "owner": "Kumokage",
+            "repo": "litestar-psycopg",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "General"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Piccolo Admin",
+          "description": "A powerful and modern admin GUI, using the Piccolo ORM.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-19T22:00:19Z",
+            "owner": "piccolo-orm",
+            "repo": "piccolo_admin",
+            "stars": 468
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SQLAdminPlugin",
+          "description": "Integrates SQLAdmin with a Litestar application.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-12-15T01:12:11Z",
+            "owner": "peterschutt",
+            "repo": "sqladmin-litestar-plugin",
+            "stars": 33
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "StarletteAdminPlugin",
+          "description": "Integrates Starlette Admin with a Litestar application.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2025-06-02T11:14:28Z",
+            "owner": "noamsto",
+            "repo": "starlette-admin-litestar-plugin",
+            "stars": 5
+          }
+        }
+      ],
+      "title": "Admin"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "Authentication and user management for the Litestar framework.*",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-10T10:50:05Z",
+            "owner": "mvbosch",
+            "repo": "litestar-users",
+            "stars": 99
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "Production-ready authentication and authorization library for Litestar with JWT, password hashing, SQLAlchemy/Advanced Alchemy integration, optional Redis session storage, OAuth, and TOTP support.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-09T19:50:18Z",
+            "owner": "ZYLVEXT",
+            "repo": "litestar-auth",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "Auth"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Databases"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "ODMs"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Other"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Developer Tools"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Email"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Utils"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "External Resources"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Talks"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Best Practices"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Hosting"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Serverless"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Projects"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Litestar Fullstack with Vite, VueJS, Redis, PostgreSQL, and more",
+          "description": "Made by @cofin.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-03T18:04:23Z",
+            "owner": "litestar-org",
+            "repo": "litestar-fullstack",
+            "stars": 607
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Litestar + SQLAlchemy 2 + PostgreSQL Template",
+          "description": "Dockerized starter with dependency injection and Alembic. Made by @modern-python.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-13T08:45:32Z",
+            "owner": "modern-python",
+            "repo": "litestar-sqlalchemy-template",
+            "stars": 35
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Clean Architecture Litestar Project Template",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T00:59:05Z",
+            "owner": "Peopl3s",
+            "repo": "clean-architecture-litestar-project-template",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Basic Litestar App",
+          "description": "Basic Litestar app with TailwindCSS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2024-10-10T17:40:17Z",
+            "owner": "JacobCoffee",
+            "repo": "litestar-template",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Example Litestar Service",
+          "description": "Production-ready Litestar service template with clean architecture, dishka DI, JWT auth with RBAC, NATS via FastStream, and observability.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-10T01:11:04Z",
+            "owner": "andy-takker",
+            "repo": "example-litestar-service",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hexagonal Architecture Litestar Project Example",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-11-28T04:34:31Z",
+            "owner": "Peopl3s",
+            "repo": "litestar-hexagonal-architecture-example",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "Boilerplate"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Docker Images"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Network Information API",
+          "description": "Toy app with TailwindCSS and HTMX.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-04-28T04:03:13Z",
+            "owner": "JacobCoffee",
+            "repo": "niapi",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Litestar with OAuth2 Example",
+          "description": "Example of using Litestar with OAuth2.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-07-26T14:33:25Z",
+            "owner": "johnfaucette",
+            "repo": "litestar-oauth2-example",
+            "stars": 11
+          }
+        }
+      ],
+      "title": "Open Source Projects"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T03:58:18.416Z",
+    "original_repository": "litestar-org/awesome-litestar",
+    "original_repository_sha": "d74237a14b6024c5a4f59aace4ed857604d3a2ef",
+    "enhanced_repository": "enhansome/enhansome-litestar",
+    "enhanced_repository_description": null,
+    "title": "Awesome Litestar with stars"
+  }
+}
