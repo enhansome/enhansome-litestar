@@ -83,7 +83,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-03T19:21:05Z",
+            "last_commit": "2026-08-13T18:48:34Z",
             "owner": "modern-python",
             "repo": "modern-di",
             "stars": 61
@@ -374,7 +374,7 @@
             "last_commit": "2026-07-13T08:45:32Z",
             "owner": "modern-python",
             "repo": "litestar-sqlalchemy-template",
-            "stars": 35
+            "stars": 34
           }
         },
         {
@@ -385,7 +385,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T00:59:05Z",
+            "last_commit": "2026-08-13T11:57:33Z",
             "owner": "Peopl3s",
             "repo": "clean-architecture-litestar-project-template",
             "stars": 25
@@ -477,7 +477,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T03:58:18.416Z",
+    "last_updated": "2026-08-13T23:02:12.933Z",
     "original_repository": "litestar-org/awesome-litestar",
     "original_repository_sha": "d74237a14b6024c5a4f59aace4ed857604d3a2ef",
     "enhanced_repository": "enhansome/enhansome-litestar",
