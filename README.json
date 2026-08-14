@@ -69,10 +69,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-10T22:15:24Z",
+            "last_commit": "2026-08-14T15:50:35Z",
             "owner": "reagento",
             "repo": "dishka",
-            "stars": 1233
+            "stars": 1241
           }
         },
         {
@@ -385,7 +385,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T11:57:33Z",
+            "last_commit": "2026-08-14T19:13:15Z",
             "owner": "Peopl3s",
             "repo": "clean-architecture-litestar-project-template",
             "stars": 25
@@ -477,7 +477,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T23:02:12.933Z",
+    "last_updated": "2026-08-14T22:40:40.195Z",
     "original_repository": "litestar-org/awesome-litestar",
     "original_repository_sha": "d74237a14b6024c5a4f59aace4ed857604d3a2ef",
     "enhanced_repository": "enhansome/enhansome-litestar",
