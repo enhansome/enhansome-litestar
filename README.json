@@ -72,7 +72,7 @@
             "last_commit": "2026-08-14T15:50:35Z",
             "owner": "reagento",
             "repo": "dishka",
-            "stars": 1241
+            "stars": 1247
           }
         },
         {
@@ -86,7 +86,7 @@
             "last_commit": "2026-08-13T18:48:34Z",
             "owner": "modern-python",
             "repo": "modern-di",
-            "stars": 61
+            "stars": 62
           }
         },
         {
@@ -111,7 +111,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-05T03:41:11Z",
+            "last_commit": "2026-08-15T01:28:58Z",
             "owner": "litestar-org",
             "repo": "litestar-saq",
             "stars": 31
@@ -477,7 +477,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T22:40:40.195Z",
+    "last_updated": "2026-08-15T22:37:29.789Z",
     "original_repository": "litestar-org/awesome-litestar",
     "original_repository_sha": "d74237a14b6024c5a4f59aace4ed857604d3a2ef",
     "enhanced_repository": "enhansome/enhansome-litestar",
