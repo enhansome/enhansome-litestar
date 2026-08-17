@@ -16,7 +16,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-11T13:04:26Z",
+            "last_commit": "2026-08-17T13:24:25Z",
             "owner": "litestar-org",
             "repo": "litestar-asyncpg",
             "stars": 14
@@ -97,7 +97,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-06T14:33:08Z",
+            "last_commit": "2026-08-17T14:33:25Z",
             "owner": "cofin",
             "repo": "litestar-granian",
             "stars": 44
@@ -360,7 +360,7 @@
             "last_commit": "2026-08-03T18:04:23Z",
             "owner": "litestar-org",
             "repo": "litestar-fullstack",
-            "stars": 607
+            "stars": 608
           }
         },
         {
@@ -385,7 +385,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-16T04:33:02Z",
+            "last_commit": "2026-08-17T04:40:55Z",
             "owner": "Peopl3s",
             "repo": "clean-architecture-litestar-project-template",
             "stars": 25
@@ -477,7 +477,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T22:36:23.425Z",
+    "last_updated": "2026-08-17T22:40:34.251Z",
     "original_repository": "litestar-org/awesome-litestar",
     "original_repository_sha": "d74237a14b6024c5a4f59aace4ed857604d3a2ef",
     "enhanced_repository": "enhansome/enhansome-litestar",
