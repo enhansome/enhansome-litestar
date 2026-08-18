@@ -72,7 +72,7 @@
             "last_commit": "2026-08-14T15:50:35Z",
             "owner": "reagento",
             "repo": "dishka",
-            "stars": 1246
+            "stars": 1251
           }
         },
         {
@@ -477,7 +477,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T22:40:34.251Z",
+    "last_updated": "2026-08-18T22:41:50.729Z",
     "original_repository": "litestar-org/awesome-litestar",
     "original_repository_sha": "d74237a14b6024c5a4f59aace4ed857604d3a2ef",
     "enhanced_repository": "enhansome/enhansome-litestar",
