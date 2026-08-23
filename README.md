@@ -89,7 +89,7 @@ framework
 
 * [Documentation](https://docs.litestar.dev/) includes comprehensive API reference docs as well as usage guides.
 * [Tutorial](https://docs.litestar.dev/latest/tutorials/) on Litestar, for people that are new to Litestar.
-* [Source Code](https://github.com/litestar-org/litestar) ⭐ 8,402 | 🐛 313 | 🌐 Python | 📅 2026-08-21 is hosted on GitHub.
+* [Source Code](https://github.com/litestar-org/litestar) ⭐ 8,404 | 🐛 313 | 🌐 Python | 📅 2026-08-21 is hosted on GitHub.
 * Connect with the Litestar community on [Discord](https://discord.com/invite/X3FJqy8d2j), [Twitter](https://twitter.com/LitestarAPI), and [Reddit](https://www.reddit.com/r/litestarapi).
 * [Litestar Blog](https://blog.litestar.dev/) - The official Litestar blog.
 
@@ -124,7 +124,7 @@ that you would normally find as third-party extensions in other frameworks.
 
 * [`dishka`](https://github.com/reagento/dishka) ⭐ 1,260 | 🐛 64 | 🌐 Python | 📅 2026-08-14 - Cute DI framework with agreeable API and everything you need, including [Litestar integration](https://dishka.readthedocs.io/en/stable/integrations/index.html).
 * [`modern-di`](https://github.com/modern-python/modern-di) ⭐ 62 | 🐛 0 | 🌐 Python | 📅 2026-08-22 - Dependency injection framework with IoC container and scopes, including [Litestar integration](https://github.com/modern-python/modern-di-litestar) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2026-07-28.
-* [`litestar-granian`](https://github.com/cofin/litestar-granian) ⭐ 44 | 🐛 1 | 🌐 Python | 📅 2026-08-17 - A plugin for the [Granian](https://github.com/emmett-framework/granian) ⭐ 5,564 | 🐛 42 | 🌐 Rust | 📅 2026-08-18 HTTP server, written in Rust.<sup>\*</sup>
+* [`litestar-granian`](https://github.com/cofin/litestar-granian) ⭐ 44 | 🐛 1 | 🌐 Python | 📅 2026-08-17 - A plugin for the [Granian](https://github.com/emmett-framework/granian) ⭐ 5,564 | 🐛 39 | 🌐 Rust | 📅 2026-08-23 HTTP server, written in Rust.<sup>\*</sup>
 * [`litestar-saq`](https://github.com/litestar-org/litestar-saq) ⭐ 31 | 🐛 8 | 🌐 Python | 📅 2026-08-15 - A plugin for the [SAQ job queuing framework](https://github.com/tobymao/saq) ⭐ 879 | 🐛 0 | 🌐 Python | 📅 2026-08-14<sup>\*</sup>
 * [`litestar-taskiq`](https://github.com/taskiq-python/taskiq-litestar) ⭐ 19 | 🐛 1 | 🌐 Python | 📅 2026-04-25 - [Taskiq](https://taskiq-python.github.io/) integration for Litestar.
 * [`litestar-svcs`](https://github.com/vkcku/litestar-svcs) ⭐ 11 | 🐛 0 | 🌐 Python | 📅 2023-11-30 - A plugin for the [SVCS](https://github.com/hynek/svcs) ⭐ 421 | 🐛 1 | 🌐 Python | 📅 2026-08-22 service locater/dependency injection library.<sup>\*</sup>
@@ -144,13 +144,13 @@ that you would normally find as third-party extensions in other frameworks.
 
 * [`litestar-users`](https://github.com/mvbosch/litestar-users) ⭐ 99 | 🐛 6 | 🌐 Python | 📅 2026-07-10 - Authentication and user management for the
   Litestar framework.<sup>\*</sup>
-* [`litestar-auth`](https://github.com/ZYLVEXT/litestar-auth) ⭐ 3 | 🐛 7 | 🌐 Python | 📅 2026-08-16 - Production-ready authentication and authorization library for Litestar with JWT, password hashing, SQLAlchemy/Advanced Alchemy integration, optional Redis session storage, OAuth, and TOTP support.
+* [`litestar-auth`](https://github.com/ZYLVEXT/litestar-auth) ⭐ 3 | 🐛 9 | 🌐 Python | 📅 2026-08-23 - Production-ready authentication and authorization library for Litestar with JWT, password hashing, SQLAlchemy/Advanced Alchemy integration, optional Redis session storage, OAuth, and TOTP support.
 
 ### Databases
 
 #### ORMs
 
-* [Piccolo](https://github.com/piccolo-orm/piccolo) ⭐ 1,936 | 🐛 40 | 🌐 Python | 📅 2026-08-07 - An async ORM and query builder, supporting Postgres and SQLite,
+* [Piccolo](https://github.com/piccolo-orm/piccolo) ⭐ 1,937 | 🐛 40 | 🌐 Python | 📅 2026-08-07 - An async ORM and query builder, supporting Postgres and SQLite,
   with batteries (migrations, security, etc).
   * [Litestar Docs - Piccolo](https://docs.litestar.dev/latest/usage/databases/piccolo.html) - Documentation on using
     Piccolo with Litestar.
@@ -292,4 +292,4 @@ that you would normally find as third-party extensions in other frameworks.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._

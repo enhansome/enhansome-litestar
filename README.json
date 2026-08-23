@@ -303,7 +303,7 @@
                 "archived": false,
                 "id": 1195260042,
                 "language": "Python",
-                "last_commit": "2026-08-16T19:48:39Z",
+                "last_commit": "2026-08-23T19:51:03Z",
                 "owner": "ZYLVEXT",
                 "repo": "litestar-auth",
                 "stars": 3
@@ -460,7 +460,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T22:38:04.180Z",
+    "last_updated": "2026-08-23T22:37:59.280Z",
     "original_repository": "litestar-org/awesome-litestar",
     "original_repository_id": 677551554,
     "original_repository_sha": "d74237a14b6024c5a4f59aace4ed857604d3a2ef",
