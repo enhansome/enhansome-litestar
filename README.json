@@ -50,10 +50,10 @@
                 "archived": false,
                 "id": 435625572,
                 "language": "Python",
-                "last_commit": "2026-08-24T13:26:13Z",
+                "last_commit": "2026-08-24T20:22:09Z",
                 "owner": "litestar-org",
                 "repo": "litestar",
-                "stars": 8407
+                "stars": 8408
               }
             },
             {
@@ -133,7 +133,7 @@
                 "last_commit": "2026-08-14T15:50:35Z",
                 "owner": "reagento",
                 "repo": "dishka",
-                "stars": 1261
+                "stars": 1262
               }
             },
             {
@@ -614,7 +614,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:34:06.830Z",
+    "last_updated": "2026-08-24T22:44:11.080Z",
     "original_repository": "litestar-org/awesome-litestar",
     "original_repository_id": 677551554,
     "original_repository_sha": "d74237a14b6024c5a4f59aace4ed857604d3a2ef",
