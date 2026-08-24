@@ -1,22 +1,73 @@
 {
   "items": [
     {
+      "description": "[!IMPORTANT]Starlite has been renamed to Litestar\nA curated list of awesome things related to Litestar.\nEffortlessly build performant APIs with Litestar - The powerful, lightweight and flexible ASGI framework\nrepositories are marked with * to indicate they extend functionality through the plugin system.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "CI/CD",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 677551554,
+            "language": "Makefile",
+            "last_commit": "2026-07-07T16:43:15Z",
+            "owner": "litestar-org",
+            "repo": "awesome-litestar",
+            "stars": 168
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Meta",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 677551554,
+            "language": "Makefile",
+            "last_commit": "2026-07-07T16:43:15Z",
+            "owner": "litestar-org",
+            "repo": "awesome-litestar",
+            "stars": 168
+          }
+        }
+      ],
+      "title": "Overview"
+    },
+    {
       "description": null,
       "items": [
         {
           "children": [
             {
+              "node_type": "item",
+              "title": "Source Code",
+              "description": "is hosted on GitHub.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 435625572,
+                "language": "Python",
+                "last_commit": "2026-08-24T13:26:13Z",
+                "owner": "litestar-org",
+                "repo": "litestar",
+                "stars": 8407
+              }
+            },
+            {
               "children": [
                 {
                   "node_type": "item",
-                  "title": "",
+                  "title": "litestar-asyncpg",
                   "description": "A plugin for the AsyncPG database driver.*",
                   "children": [],
                   "repo_info": {
                     "archived": false,
                     "id": 699095510,
                     "language": "Python",
-                    "last_commit": "2026-08-17T13:24:25Z",
+                    "last_commit": "2026-08-24T13:24:28Z",
                     "owner": "litestar-org",
                     "repo": "litestar-asyncpg",
                     "stars": 14
@@ -24,7 +75,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "",
+                  "title": "vite-plugin",
                   "description": "A Vite adapter for Litestar.",
                   "children": [],
                   "repo_info": {
@@ -39,7 +90,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "",
+                  "title": "litestar-piccolo",
                   "description": "A Piccolo ORM adapter for Litestar.*",
                   "children": [],
                   "repo_info": {
@@ -63,7 +114,7 @@
           "title": "Official Resources"
         }
       ],
-      "title": "Resources"
+      "title": "Official"
     },
     {
       "description": null,
@@ -72,7 +123,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "",
+              "title": "dishka",
               "description": "Cute DI framework with agreeable API and everything you need, including Litestar integration.",
               "children": [],
               "repo_info": {
@@ -82,19 +133,19 @@
                 "last_commit": "2026-08-14T15:50:35Z",
                 "owner": "reagento",
                 "repo": "dishka",
-                "stars": 1260
+                "stars": 1261
               }
             },
             {
               "node_type": "item",
-              "title": "",
+              "title": "modern-di",
               "description": "Dependency injection framework with IoC container and scopes, including Litestar integration.",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 879368249,
                 "language": "Python",
-                "last_commit": "2026-08-22T09:30:33Z",
+                "last_commit": "2026-08-24T12:52:03Z",
                 "owner": "modern-python",
                 "repo": "modern-di",
                 "stars": 62
@@ -102,7 +153,7 @@
             },
             {
               "node_type": "item",
-              "title": "",
+              "title": "litestar-granian",
               "description": "A plugin for the Granian HTTP server, written in Rust.*",
               "children": [],
               "repo_info": {
@@ -117,7 +168,7 @@
             },
             {
               "node_type": "item",
-              "title": "",
+              "title": "litestar-saq",
               "description": "A plugin for the SAQ job queuing framework*",
               "children": [],
               "repo_info": {
@@ -132,7 +183,7 @@
             },
             {
               "node_type": "item",
-              "title": "",
+              "title": "taskiq-litestar",
               "description": "Taskiq integration for Litestar.",
               "children": [],
               "repo_info": {
@@ -147,7 +198,7 @@
             },
             {
               "node_type": "item",
-              "title": "",
+              "title": "litestar-svcs",
               "description": "A plugin for the SVCS service locater/dependency injection library.*",
               "children": [],
               "repo_info": {
@@ -162,7 +213,7 @@
             },
             {
               "node_type": "item",
-              "title": "",
+              "title": "litestar_saq_htmx",
               "description": "Proof of concept using SAQ, Litestar, HTMX, and Server-Sent events for a simple SAQ job monitor.",
               "children": [],
               "repo_info": {
@@ -177,7 +228,7 @@
             },
             {
               "node_type": "item",
-              "title": "",
+              "title": "litestar-mqtt",
               "description": "A plugin for the MQTT protocol.",
               "children": [],
               "repo_info": {
@@ -192,7 +243,7 @@
             },
             {
               "node_type": "item",
-              "title": "",
+              "title": "litestar-aiosql",
               "description": "A plugin for the aiosql database query builder.*",
               "children": [],
               "repo_info": {
@@ -207,7 +258,7 @@
             },
             {
               "node_type": "item",
-              "title": "",
+              "title": "litestar-psycopg",
               "description": "A plugin for the Psycopg database driver.",
               "children": [],
               "repo_info": {
@@ -281,7 +332,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "",
+              "title": "litestar-users",
               "description": "Authentication and user management for the Litestar framework.*",
               "children": [],
               "repo_info": {
@@ -296,14 +347,14 @@
             },
             {
               "node_type": "item",
-              "title": "",
+              "title": "litestar-auth",
               "description": "Production-ready authentication and authorization library for Litestar with JWT, password hashing, SQLAlchemy/Advanced Alchemy integration, optional Redis session storage, OAuth, and TOTP support.",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 1195260042,
                 "language": "Python",
-                "last_commit": "2026-08-23T19:51:03Z",
+                "last_commit": "2026-08-24T03:25:35Z",
                 "owner": "ZYLVEXT",
                 "repo": "litestar-auth",
                 "stars": 3
@@ -313,6 +364,109 @@
           "description": null,
           "node_type": "group",
           "title": "Auth"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Piccolo",
+                  "description": "An async ORM and query builder, supporting Postgres and SQLite, with batteries (migrations, security, etc).",
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "Litestar Example",
+                      "description": "Using Litestar withPiccolo.",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 603119240,
+                        "language": "Vue",
+                        "last_commit": "2025-01-07T07:05:54Z",
+                        "owner": "sinisaos",
+                        "repo": "litestar-piccolo",
+                        "stars": 15
+                      }
+                    }
+                  ],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 155008334,
+                    "language": "Python",
+                    "last_commit": "2026-08-07T20:47:27Z",
+                    "owner": "piccolo-orm",
+                    "repo": "piccolo",
+                    "stars": 1937
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "ORMs"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Databases"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "apitally-py",
+              "description": "A plugin for easy API monitoring with Apitally (including API traffic, errors, response times, payload sizes and uptime).*",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 661287015,
+                "language": "Python",
+                "last_commit": "2026-08-22T02:40:22Z",
+                "owner": "apitally",
+                "repo": "apitally-py",
+                "stars": 224
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Monitoring"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "Chalice",
+                      "description": "Python Serverless Microframework for AWS.",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 59868262,
+                        "language": "Python",
+                        "last_commit": "2026-08-12T15:03:00Z",
+                        "owner": "aws",
+                        "repo": "chalice",
+                        "stars": 11061
+                      }
+                    }
+                  ],
+                  "description": null,
+                  "node_type": "group",
+                  "title": "Frameworks"
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Serverless"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Hosting"
         },
         {
           "children": [
@@ -460,7 +614,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T22:37:59.280Z",
+    "last_updated": "2026-08-24T14:34:06.830Z",
     "original_repository": "litestar-org/awesome-litestar",
     "original_repository_id": 677551554,
     "original_repository_sha": "d74237a14b6024c5a4f59aace4ed857604d3a2ef",
