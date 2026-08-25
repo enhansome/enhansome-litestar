@@ -43,7 +43,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "Source Code",
+              "title": "litestar-org/litestar",
               "description": "is hosted on GitHub.",
               "children": [],
               "repo_info": {
@@ -53,7 +53,7 @@
                 "last_commit": "2026-08-24T20:22:09Z",
                 "owner": "litestar-org",
                 "repo": "litestar",
-                "stars": 8408
+                "stars": 8409
               }
             },
             {
@@ -133,7 +133,7 @@
                 "last_commit": "2026-08-14T15:50:35Z",
                 "owner": "reagento",
                 "repo": "dishka",
-                "stars": 1262
+                "stars": 1263
               }
             },
             {
@@ -614,7 +614,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T22:44:11.080Z",
+    "last_updated": "2026-08-25T06:33:03.539Z",
     "original_repository": "litestar-org/awesome-litestar",
     "original_repository_id": 677551554,
     "original_repository_sha": "d74237a14b6024c5a4f59aace4ed857604d3a2ef",
