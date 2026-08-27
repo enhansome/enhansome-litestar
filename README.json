@@ -53,7 +53,7 @@
                 "last_commit": "2026-08-24T20:22:09Z",
                 "owner": "litestar-org",
                 "repo": "litestar",
-                "stars": 8410
+                "stars": 8420
               }
             },
             {
@@ -133,7 +133,7 @@
                 "last_commit": "2026-08-25T11:46:08Z",
                 "owner": "reagento",
                 "repo": "dishka",
-                "stars": 1263
+                "stars": 1265
               }
             },
             {
@@ -614,7 +614,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T22:44:52.998Z",
+    "last_updated": "2026-08-27T03:18:07.532Z",
     "original_repository": "litestar-org/awesome-litestar",
     "original_repository_id": 677551554,
     "original_repository_sha": "d74237a14b6024c5a4f59aace4ed857604d3a2ef",
