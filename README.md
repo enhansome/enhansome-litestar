@@ -87,7 +87,7 @@ framework
 
 <!--lint ignore awesome-list-item-->
 
-* [Source Code](https://github.com/litestar-org/litestar) ⭐ 8,420 | 🐛 316 | 🌐 Python | 📅 2026-08-24 is hosted on GitHub.
+* [Source Code](https://github.com/litestar-org/litestar) ⭐ 8,422 | 🐛 317 | 🌐 Python | 📅 2026-08-24 is hosted on GitHub.
 * [Documentation](https://docs.litestar.dev/) includes comprehensive API reference docs as well as usage guides.
 * [Tutorial](https://docs.litestar.dev/latest/tutorials/) on Litestar, for people that are new to Litestar.
 * Connect with the Litestar community on [Discord](https://discord.com/invite/X3FJqy8d2j), [Twitter](https://twitter.com/LitestarAPI), and [Reddit](https://www.reddit.com/r/litestarapi).
@@ -122,8 +122,8 @@ that you would normally find as third-party extensions in other frameworks.
 
 ### General
 
-* [`dishka`](https://github.com/reagento/dishka) ⭐ 1,265 | 🐛 65 | 🌐 Python | 📅 2026-08-25 - Cute DI framework with agreeable API and everything you need, including [Litestar integration](https://dishka.readthedocs.io/en/stable/integrations/index.html).
-* [`modern-di`](https://github.com/modern-python/modern-di) ⭐ 62 | 🐛 0 | 🌐 Python | 📅 2026-08-24 - Dependency injection framework with IoC container and scopes, including [Litestar integration](https://github.com/modern-python/modern-di-litestar) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2026-07-28.
+* [`dishka`](https://github.com/reagento/dishka) ⭐ 1,266 | 🐛 65 | 🌐 Python | 📅 2026-08-25 - Cute DI framework with agreeable API and everything you need, including [Litestar integration](https://dishka.readthedocs.io/en/stable/integrations/index.html).
+* [`modern-di`](https://github.com/modern-python/modern-di) ⭐ 63 | 🐛 0 | 🌐 Python | 📅 2026-08-24 - Dependency injection framework with IoC container and scopes, including [Litestar integration](https://github.com/modern-python/modern-di-litestar) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2026-07-28.
 * [`litestar-granian`](https://github.com/cofin/litestar-granian) ⭐ 44 | 🐛 1 | 🌐 Python | 📅 2026-08-17 - A plugin for the [Granian](https://github.com/emmett-framework/granian) ⭐ 5,570 | 🐛 38 | 🌐 Rust | 📅 2026-08-23 HTTP server, written in Rust.<sup>\*</sup>
 * [`litestar-saq`](https://github.com/litestar-org/litestar-saq) ⭐ 31 | 🐛 8 | 🌐 Python | 📅 2026-08-15 - A plugin for the [SAQ job queuing framework](https://github.com/tobymao/saq) ⭐ 880 | 🐛 0 | 🌐 Python | 📅 2026-08-14<sup>\*</sup>
 * [`litestar-taskiq`](https://github.com/taskiq-python/taskiq-litestar) ⭐ 19 | 🐛 1 | 🌐 Python | 📅 2026-04-25 - [Taskiq](https://taskiq-python.github.io/) integration for Litestar.
