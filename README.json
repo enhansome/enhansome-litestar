@@ -16,7 +16,8 @@
             "owner": "litestar-org",
             "repo": "awesome-litestar",
             "stars": 168
-          }
+          },
+          "first_seen": "2026-08-28T06:07:05.068Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "litestar-org",
             "repo": "awesome-litestar",
             "stars": 168
-          }
+          },
+          "first_seen": "2026-08-28T06:07:05.068Z"
         }
       ],
       "title": "Overview"
@@ -50,11 +52,12 @@
                 "archived": false,
                 "id": 435625572,
                 "language": "Python",
-                "last_commit": "2026-08-24T20:22:09Z",
+                "last_commit": "2026-08-28T04:22:54Z",
                 "owner": "litestar-org",
                 "repo": "litestar",
-                "stars": 8422
-              }
+                "stars": 8425
+              },
+              "first_seen": "2026-08-28T06:07:05.068Z"
             },
             {
               "children": [
@@ -71,7 +74,8 @@
                     "owner": "litestar-org",
                     "repo": "litestar-asyncpg",
                     "stars": 14
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:07:05.068Z"
                 },
                 {
                   "node_type": "item",
@@ -86,7 +90,8 @@
                     "owner": "litestar-org",
                     "repo": "vite-plugin",
                     "stars": 7
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:07:05.068Z"
                 },
                 {
                   "node_type": "item",
@@ -101,7 +106,8 @@
                     "owner": "litestar-org",
                     "repo": "litestar-piccolo",
                     "stars": 6
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:07:05.068Z"
                 }
               ],
               "description": null,
@@ -134,7 +140,8 @@
                 "owner": "reagento",
                 "repo": "dishka",
                 "stars": 1266
-              }
+              },
+              "first_seen": "2026-08-28T06:07:05.068Z"
             },
             {
               "node_type": "item",
@@ -149,7 +156,8 @@
                 "owner": "modern-python",
                 "repo": "modern-di",
                 "stars": 63
-              }
+              },
+              "first_seen": "2026-08-28T06:07:05.068Z"
             },
             {
               "node_type": "item",
@@ -164,7 +172,8 @@
                 "owner": "cofin",
                 "repo": "litestar-granian",
                 "stars": 44
-              }
+              },
+              "first_seen": "2026-08-28T06:07:05.068Z"
             },
             {
               "node_type": "item",
@@ -179,7 +188,8 @@
                 "owner": "litestar-org",
                 "repo": "litestar-saq",
                 "stars": 31
-              }
+              },
+              "first_seen": "2026-08-28T06:07:05.068Z"
             },
             {
               "node_type": "item",
@@ -194,7 +204,8 @@
                 "owner": "taskiq-python",
                 "repo": "taskiq-litestar",
                 "stars": 19
-              }
+              },
+              "first_seen": "2026-08-28T06:07:05.068Z"
             },
             {
               "node_type": "item",
@@ -209,7 +220,8 @@
                 "owner": "vkcku",
                 "repo": "litestar-svcs",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-28T06:07:05.068Z"
             },
             {
               "node_type": "item",
@@ -224,7 +236,8 @@
                 "owner": "euri10",
                 "repo": "litestar_saq_htmx",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T06:07:05.068Z"
             },
             {
               "node_type": "item",
@@ -239,7 +252,8 @@
                 "owner": "Alurith",
                 "repo": "litestar-mqtt",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T06:07:05.068Z"
             },
             {
               "node_type": "item",
@@ -254,7 +268,8 @@
                 "owner": "cofin",
                 "repo": "litestar-aiosql",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T06:07:05.068Z"
             },
             {
               "node_type": "item",
@@ -269,7 +284,8 @@
                 "owner": "Kumokage",
                 "repo": "litestar-psycopg",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T06:07:05.068Z"
             }
           ],
           "description": null,
@@ -291,7 +307,8 @@
                 "owner": "piccolo-orm",
                 "repo": "piccolo_admin",
                 "stars": 468
-              }
+              },
+              "first_seen": "2026-08-28T06:07:05.068Z"
             },
             {
               "node_type": "item",
@@ -306,7 +323,8 @@
                 "owner": "peterschutt",
                 "repo": "sqladmin-litestar-plugin",
                 "stars": 33
-              }
+              },
+              "first_seen": "2026-08-28T06:07:05.068Z"
             },
             {
               "node_type": "item",
@@ -321,7 +339,8 @@
                 "owner": "noamsto",
                 "repo": "starlette-admin-litestar-plugin",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T06:07:05.068Z"
             }
           ],
           "description": null,
@@ -343,7 +362,8 @@
                 "owner": "mvbosch",
                 "repo": "litestar-users",
                 "stars": 99
-              }
+              },
+              "first_seen": "2026-08-28T06:07:05.068Z"
             },
             {
               "node_type": "item",
@@ -358,7 +378,8 @@
                 "owner": "ZYLVEXT",
                 "repo": "litestar-auth",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T06:07:05.068Z"
             }
           ],
           "description": null,
@@ -387,7 +408,8 @@
                         "owner": "sinisaos",
                         "repo": "litestar-piccolo",
                         "stars": 15
-                      }
+                      },
+                      "first_seen": "2026-08-28T06:07:05.068Z"
                     }
                   ],
                   "repo_info": {
@@ -398,7 +420,8 @@
                     "owner": "piccolo-orm",
                     "repo": "piccolo",
                     "stars": 1937
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:07:05.068Z"
                 }
               ],
               "description": null,
@@ -421,11 +444,12 @@
                 "archived": false,
                 "id": 661287015,
                 "language": "Python",
-                "last_commit": "2026-08-22T02:40:22Z",
+                "last_commit": "2026-08-27T20:07:41Z",
                 "owner": "apitally",
                 "repo": "apitally-py",
                 "stars": 224
-              }
+              },
+              "first_seen": "2026-08-28T06:07:05.068Z"
             }
           ],
           "description": null,
@@ -451,7 +475,8 @@
                         "owner": "aws",
                         "repo": "chalice",
                         "stars": 11061
-                      }
+                      },
+                      "first_seen": "2026-08-28T06:07:05.068Z"
                     }
                   ],
                   "description": null,
@@ -485,7 +510,8 @@
                     "owner": "litestar-org",
                     "repo": "litestar-fullstack",
                     "stars": 608
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:07:05.068Z"
                 },
                 {
                   "node_type": "item",
@@ -500,7 +526,8 @@
                     "owner": "modern-python",
                     "repo": "litestar-sqlalchemy-template",
                     "stars": 35
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:07:05.068Z"
                 },
                 {
                   "node_type": "item",
@@ -511,11 +538,12 @@
                     "archived": false,
                     "id": 1078016498,
                     "language": "Python",
-                    "last_commit": "2026-08-25T21:43:19Z",
+                    "last_commit": "2026-08-27T23:32:51Z",
                     "owner": "Peopl3s",
                     "repo": "clean-architecture-litestar-project-template",
                     "stars": 25
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:07:05.068Z"
                 },
                 {
                   "node_type": "item",
@@ -530,7 +558,8 @@
                     "owner": "JacobCoffee",
                     "repo": "litestar-template",
                     "stars": 8
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:07:05.068Z"
                 },
                 {
                   "node_type": "item",
@@ -545,7 +574,8 @@
                     "owner": "andy-takker",
                     "repo": "example-litestar-service",
                     "stars": 5
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:07:05.068Z"
                 },
                 {
                   "node_type": "item",
@@ -560,7 +590,8 @@
                     "owner": "Peopl3s",
                     "repo": "litestar-hexagonal-architecture-example",
                     "stars": 4
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:07:05.068Z"
                 }
               ],
               "description": null,
@@ -582,7 +613,8 @@
                     "owner": "JacobCoffee",
                     "repo": "niapi",
                     "stars": 17
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:07:05.068Z"
                 },
                 {
                   "node_type": "item",
@@ -597,7 +629,8 @@
                     "owner": "johnfaucette",
                     "repo": "litestar-oauth2-example",
                     "stars": 11
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:07:05.068Z"
                 }
               ],
               "description": null,
@@ -614,7 +647,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:47:10.592Z",
+    "last_updated": "2026-08-28T06:07:05.068Z",
     "original_repository_info": {
       "archived": false,
       "id": 677551554,
