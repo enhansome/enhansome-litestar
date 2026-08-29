@@ -10,12 +10,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of resources related to Litestar. ",
+            "homepage": "https://litestar.dev",
             "id": 677551554,
             "language": "Makefile",
+            "license": "MIT",
             "last_commit": "2026-07-07T16:43:15Z",
+            "open_issues": 3,
             "owner": "litestar-org",
             "repo": "awesome-litestar",
-            "stars": 168
+            "stars": 168,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "hacktoberfest",
+              "litestar",
+              "litestar-api",
+              "litestar-framework",
+              "litestar-meta"
+            ]
           },
           "first_seen": "2026-08-28T06:07:05.068Z"
         },
@@ -26,12 +39,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of resources related to Litestar. ",
+            "homepage": "https://litestar.dev",
             "id": 677551554,
             "language": "Makefile",
+            "license": "MIT",
             "last_commit": "2026-07-07T16:43:15Z",
+            "open_issues": 3,
             "owner": "litestar-org",
             "repo": "awesome-litestar",
-            "stars": 168
+            "stars": 168,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "hacktoberfest",
+              "litestar",
+              "litestar-api",
+              "litestar-framework",
+              "litestar-meta"
+            ]
           },
           "first_seen": "2026-08-28T06:07:05.068Z"
         }
@@ -50,12 +76,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Light, flexible and extensible ASGI framework | Built to scale",
+                "homepage": "https://docs.litestar.dev/",
                 "id": 435625572,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-28T04:22:54Z",
+                "open_issues": 319,
                 "owner": "litestar-org",
                 "repo": "litestar",
-                "stars": 8425
+                "stars": 8428,
+                "topics": [
+                  "api",
+                  "asgi",
+                  "asyncio",
+                  "litestar",
+                  "litestar-api",
+                  "litestar-framework",
+                  "msgspec",
+                  "openapi",
+                  "pydantic",
+                  "python",
+                  "rapidoc",
+                  "redoc",
+                  "rest",
+                  "starlite",
+                  "swagger"
+                ]
               },
               "first_seen": "2026-08-28T06:07:05.068Z"
             },
@@ -68,12 +115,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Database connection management plugin for Litestar and asyncpg",
+                    "homepage": null,
                     "id": 699095510,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-08-24T13:24:28Z",
+                    "open_issues": 4,
                     "owner": "litestar-org",
                     "repo": "litestar-asyncpg",
-                    "stars": 14
+                    "stars": 14,
+                    "topics": [
+                      "asyncpg",
+                      "litestar",
+                      "litestar-api",
+                      "litestar-framework"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:07:05.068Z"
                 },
@@ -84,12 +141,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Litestar Adapter for Vite",
+                    "homepage": null,
                     "id": 711249998,
                     "language": "TypeScript",
+                    "license": "NOASSERTION",
                     "last_commit": "2024-08-05T23:21:23Z",
+                    "open_issues": 0,
                     "owner": "litestar-org",
                     "repo": "vite-plugin",
-                    "stars": 7
+                    "stars": 7,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:07:05.068Z"
                 },
@@ -100,12 +162,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Litestar plugin for the Piccolo ORM",
+                    "homepage": null,
                     "id": 720183534,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2024-11-25T15:40:51Z",
+                    "open_issues": 1,
                     "owner": "litestar-org",
                     "repo": "litestar-piccolo",
-                    "stars": 6
+                    "stars": 6,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:07:05.068Z"
                 }
@@ -134,12 +201,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Cute dependency injection (DI) framework for Python with agreeable API and everything you need",
+                "homepage": "https://dishka.readthedocs.io",
                 "id": 742987819,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-25T11:46:08Z",
+                "open_issues": 66,
                 "owner": "reagento",
                 "repo": "dishka",
-                "stars": 1266
+                "stars": 1267,
+                "topics": [
+                  "dependency-injection",
+                  "dependency-injector",
+                  "di",
+                  "di-container",
+                  "di-framework",
+                  "dishka",
+                  "ioc-container",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T06:07:05.068Z"
             },
@@ -150,12 +231,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Powerful dependency-injection framework with IoC container and scopes",
+                "homepage": "https://modern-di.modern-python.org",
                 "id": 879368249,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-24T12:52:03Z",
+                "open_issues": 0,
                 "owner": "modern-python",
                 "repo": "modern-di",
-                "stars": 63
+                "stars": 63,
+                "topics": [
+                  "asyncio",
+                  "dependency-injection",
+                  "di",
+                  "ioc",
+                  "ioc-container",
+                  "mocks",
+                  "modern-di",
+                  "python",
+                  "scopes"
+                ]
               },
               "first_seen": "2026-08-28T06:07:05.068Z"
             },
@@ -166,12 +262,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Granian plugin for Litestar",
+                "homepage": null,
                 "id": 699131169,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-17T14:33:25Z",
+                "open_issues": 1,
                 "owner": "cofin",
                 "repo": "litestar-granian",
-                "stars": 44
+                "stars": 44,
+                "topics": [
+                  "asgi",
+                  "asgi-server",
+                  "granian",
+                  "litestar",
+                  "litestar-api",
+                  "litestar-framework"
+                ]
               },
               "first_seen": "2026-08-28T06:07:05.068Z"
             },
@@ -182,12 +290,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SAQ Plugin for Litestar",
+                "homepage": null,
                 "id": 700149870,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-15T01:28:58Z",
+                "open_issues": 8,
                 "owner": "litestar-org",
                 "repo": "litestar-saq",
-                "stars": 31
+                "stars": 32,
+                "topics": [
+                  "litestar",
+                  "litestar-api",
+                  "litestar-framework",
+                  "saq"
+                ]
               },
               "first_seen": "2026-08-28T06:07:05.068Z"
             },
@@ -198,12 +316,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Taskiq integration in litestar",
+                "homepage": null,
                 "id": 703770165,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-04-25T09:15:37Z",
+                "open_issues": 1,
                 "owner": "taskiq-python",
                 "repo": "taskiq-litestar",
-                "stars": 19
+                "stars": 19,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:07:05.068Z"
             },
@@ -214,12 +337,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A plugin for Litestar to integrate `svcs`.",
+                "homepage": null,
                 "id": 721591738,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-11-30T13:25:15Z",
+                "open_issues": 0,
                 "owner": "vkcku",
                 "repo": "litestar-svcs",
-                "stars": 11
+                "stars": 11,
+                "topics": [
+                  "litestar",
+                  "svcs"
+                ]
               },
               "first_seen": "2026-08-28T06:07:05.068Z"
             },
@@ -230,12 +361,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 750549157,
                 "language": "CSS",
+                "license": "Unlicense",
                 "last_commit": "2024-03-11T08:30:12Z",
+                "open_issues": 0,
                 "owner": "euri10",
                 "repo": "litestar_saq_htmx",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:07:05.068Z"
             },
@@ -246,12 +382,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Litestar package for the MQTT protocol, ported from fastapi-mqtt",
+                "homepage": null,
                 "id": 634864962,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-08-31T08:26:29Z",
+                "open_issues": 0,
                 "owner": "Alurith",
                 "repo": "litestar-mqtt",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:07:05.068Z"
             },
@@ -262,12 +403,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Aiosql plugin for Litestar",
+                "homepage": null,
                 "id": 699170059,
                 "language": "Makefile",
+                "license": "MIT",
                 "last_commit": "2024-09-17T16:30:38Z",
+                "open_issues": 0,
                 "owner": "cofin",
                 "repo": "litestar-aiosql",
-                "stars": 5
+                "stars": 5,
+                "topics": [
+                  "aiosql",
+                  "litestar",
+                  "litestar-api",
+                  "litestar-framework"
+                ]
               },
               "first_seen": "2026-08-28T06:07:05.068Z"
             },
@@ -278,12 +429,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Psycopg plugin for Litestar.",
+                "homepage": null,
                 "id": 983483079,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-05-17T16:13:18Z",
+                "open_issues": 0,
                 "owner": "Kumokage",
                 "repo": "litestar-psycopg",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:07:05.068Z"
             }
@@ -301,12 +457,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A powerful web admin for your database.",
+                "homepage": "https://piccolo-orm.com/ecosystem/",
                 "id": 193770368,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-06-19T22:00:19Z",
+                "open_issues": 39,
                 "owner": "piccolo-orm",
                 "repo": "piccolo_admin",
-                "stars": 468
+                "stars": 467,
+                "topics": [
+                  "admin",
+                  "asgi",
+                  "asyncio",
+                  "cms",
+                  "content-management-system",
+                  "dashboard",
+                  "database",
+                  "fastapi",
+                  "hacktoberfest",
+                  "piccolo",
+                  "postgresql",
+                  "python",
+                  "python3",
+                  "sqlite",
+                  "starlette",
+                  "vuejs"
+                ]
               },
               "first_seen": "2026-08-28T06:07:05.068Z"
             },
@@ -317,12 +495,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Litestar plugin for the SQLAdmin library",
+                "homepage": null,
                 "id": 793015372,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-12-15T01:12:11Z",
+                "open_issues": 8,
                 "owner": "peterschutt",
                 "repo": "sqladmin-litestar-plugin",
-                "stars": 33
+                "stars": 33,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:07:05.068Z"
             },
@@ -333,12 +516,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": null,
+                "homepage": null,
                 "id": 925416978,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-06-02T11:14:28Z",
+                "open_issues": 0,
                 "owner": "noamsto",
                 "repo": "starlette-admin-litestar-plugin",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:07:05.068Z"
             }
@@ -356,12 +544,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Authentication and user management for the Litestar framework",
+                "homepage": "https://mvbosch.github.io/litestar-users/",
                 "id": 573128384,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-07-10T10:50:05Z",
+                "open_issues": 6,
                 "owner": "mvbosch",
                 "repo": "litestar-users",
-                "stars": 99
+                "stars": 99,
+                "topics": [
+                  "litestar-plugin",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T06:07:05.068Z"
             },
@@ -372,12 +568,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Fail-closed human and workload authentication for Python and Litestar: opaque sessions, mTLS, DPoP, SPIFFE, webhooks, and HTTP signatures.",
+                "homepage": "https://zylvext.github.io/litestar-auth/",
                 "id": 1195260042,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-25T16:37:31Z",
+                "open_issues": 0,
                 "owner": "ZYLVEXT",
                 "repo": "litestar-auth",
-                "stars": 3
+                "stars": 3,
+                "topics": [
+                  "asgi",
+                  "authentication",
+                  "authorization",
+                  "authweave",
+                  "fapi",
+                  "identity-management",
+                  "jwt",
+                  "litestar",
+                  "mtls",
+                  "oauth2",
+                  "python",
+                  "python-library",
+                  "redis",
+                  "security",
+                  "session-management",
+                  "sqlalchemy",
+                  "totp",
+                  "webhooks",
+                  "workload-identity",
+                  "x509"
+                ]
               },
               "first_seen": "2026-08-28T06:07:05.068Z"
             }
@@ -402,24 +624,52 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Starter application template using Piccolo ORM ecosystem (with Litestar framework) as backend and Vue.js as frontend.",
+                        "homepage": null,
                         "id": 603119240,
                         "language": "Vue",
+                        "license": "MIT",
                         "last_commit": "2025-01-07T07:05:54Z",
+                        "open_issues": 0,
                         "owner": "sinisaos",
                         "repo": "litestar-piccolo",
-                        "stars": 15
+                        "stars": 15,
+                        "topics": [
+                          "litestar-framework",
+                          "piccolo",
+                          "vue"
+                        ]
                       },
                       "first_seen": "2026-08-28T06:07:05.068Z"
                     }
                   ],
                   "repo_info": {
                     "archived": false,
+                    "description": "A fast, user friendly ORM and query builder which supports asyncio.",
+                    "homepage": "https://piccolo-orm.com/",
                     "id": 155008334,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-08-07T20:47:27Z",
+                    "open_issues": 45,
                     "owner": "piccolo-orm",
                     "repo": "piccolo",
-                    "stars": 1937
+                    "stars": 1936,
+                    "topics": [
+                      "asgi",
+                      "asyncio",
+                      "database",
+                      "fastapi",
+                      "hacktoberfest",
+                      "orm",
+                      "piccolo",
+                      "postgresql",
+                      "python",
+                      "python3",
+                      "query-builder",
+                      "sqlite",
+                      "starlette"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:07:05.068Z"
                 }
@@ -442,12 +692,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple API monitoring & analytics for Python apps",
+                "homepage": "https://apitally.io",
                 "id": 661287015,
                 "language": "Python",
-                "last_commit": "2026-08-27T20:07:41Z",
+                "license": "MIT",
+                "last_commit": "2026-08-29T02:06:03Z",
+                "open_issues": 5,
                 "owner": "apitally",
                 "repo": "apitally-py",
-                "stars": 224
+                "stars": 223,
+                "topics": [
+                  "api",
+                  "api-analytics",
+                  "api-logging",
+                  "api-monitoring",
+                  "api-observability",
+                  "blacksheep",
+                  "django",
+                  "django-ninja",
+                  "django-rest-framework",
+                  "fastapi",
+                  "flask",
+                  "litestar",
+                  "monitoring",
+                  "python",
+                  "rest-api",
+                  "starlette"
+                ]
               },
               "first_seen": "2026-08-28T06:07:05.068Z"
             }
@@ -469,12 +741,28 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Python Serverless Microframework for AWS",
+                        "homepage": null,
                         "id": 59868262,
                         "language": "Python",
+                        "license": "Apache-2.0",
                         "last_commit": "2026-08-12T15:03:00Z",
+                        "open_issues": 493,
                         "owner": "aws",
                         "repo": "chalice",
-                        "stars": 11061
+                        "stars": 11059,
+                        "topics": [
+                          "aws",
+                          "aws-apigateway",
+                          "aws-lambda",
+                          "cloud",
+                          "lambda",
+                          "python",
+                          "python27",
+                          "python3",
+                          "serverless",
+                          "serverless-framework"
+                        ]
                       },
                       "first_seen": "2026-08-28T06:07:05.068Z"
                     }
@@ -504,12 +792,31 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Litestar Fullstack Reference Application with React, Vite, SQLAlchemy, Docker, Task Queues, and more!",
+                    "homepage": "https://fullstack.litestar.dev/",
                     "id": 536385962,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-08-03T18:04:23Z",
+                    "open_issues": 19,
                     "owner": "litestar-org",
                     "repo": "litestar-fullstack",
-                    "stars": 608
+                    "stars": 608,
+                    "topics": [
+                      "hacktoberfest",
+                      "litestar",
+                      "litestar-api",
+                      "litestar-framework",
+                      "litestar-template",
+                      "reactjs",
+                      "saq",
+                      "sqlalchemy",
+                      "starlite",
+                      "starlite-api",
+                      "starlite-framework",
+                      "starlite-template",
+                      "vite"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:07:05.068Z"
                 },
@@ -520,12 +827,33 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Dockerized Litestar + SQLAlchemy 2 + PostgreSQL app template with DI",
+                    "homepage": "https://modern-python.org",
                     "id": 449559225,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-07-13T08:45:32Z",
+                    "open_issues": 0,
                     "owner": "modern-python",
                     "repo": "litestar-sqlalchemy-template",
-                    "stars": 35
+                    "stars": 35,
+                    "topics": [
+                      "advanced-alchemy",
+                      "alembic",
+                      "asyncio",
+                      "boilerplate",
+                      "di",
+                      "docker",
+                      "docker-compose",
+                      "ioc-container",
+                      "justfile",
+                      "litestar",
+                      "modern-di",
+                      "postgresql",
+                      "python",
+                      "sqlalchemy",
+                      "template"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:07:05.068Z"
                 },
@@ -536,12 +864,37 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Clean architecture Litestar project template",
+                    "homepage": null,
                     "id": 1078016498,
                     "language": "Python",
-                    "last_commit": "2026-08-27T23:32:51Z",
+                    "license": "MIT",
+                    "last_commit": "2026-08-28T21:51:00Z",
+                    "open_issues": 45,
                     "owner": "Peopl3s",
                     "repo": "clean-architecture-litestar-project-template",
-                    "stars": 25
+                    "stars": 25,
+                    "topics": [
+                      "alembic",
+                      "alembic-migration",
+                      "clean-architecture",
+                      "clean-architecture-boilerplate",
+                      "clean-architecture-example",
+                      "clean-architecture-template",
+                      "ddd-example",
+                      "dishka",
+                      "docker",
+                      "faststream",
+                      "litestar",
+                      "litestar-boilerplate",
+                      "litestar-template",
+                      "onion-architecture",
+                      "pydantic",
+                      "pytest",
+                      "sphinx",
+                      "sqlaclhemy",
+                      "stamina"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:07:05.068Z"
                 },
@@ -552,12 +905,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Litestar template for Railway",
+                    "homepage": "https://railway.app/template/zx1KGh?referralCode=BMcs0x",
                     "id": 671264374,
                     "language": "CSS",
+                    "license": "MIT",
                     "last_commit": "2024-10-10T17:40:17Z",
+                    "open_issues": 2,
                     "owner": "JacobCoffee",
                     "repo": "litestar-template",
-                    "stars": 8
+                    "stars": 8,
+                    "topics": [
+                      "litestar",
+                      "litestar-api",
+                      "litestar-framework",
+                      "litestar-template",
+                      "railway",
+                      "railway-app"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:07:05.068Z"
                 },
@@ -568,12 +933,38 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Production-ready Python web service template on Litestar — clean architecture, dishka DI, JWT auth + RBAC, NATS via FastStream, observability out of the box",
+                    "homepage": null,
                     "id": 1165437063,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-06-10T01:11:04Z",
+                    "open_issues": 0,
                     "owner": "andy-takker",
                     "repo": "example-litestar-service",
-                    "stars": 5
+                    "stars": 5,
+                    "topics": [
+                      "alembic",
+                      "async",
+                      "clean-architecture",
+                      "dependency-in",
+                      "dishka",
+                      "example",
+                      "faststream",
+                      "import-linter",
+                      "jwt",
+                      "litestar",
+                      "nats",
+                      "postgresql",
+                      "prometheus",
+                      "pytest",
+                      "python",
+                      "rbac",
+                      "redis",
+                      "sqalchemy",
+                      "structlog",
+                      "template"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:07:05.068Z"
                 },
@@ -584,12 +975,37 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": ":star2: Litestar Hexagonal Architecture Project Example: litestar + dishka + faststream + sqlalchemy + pydantic",
+                    "homepage": null,
                     "id": 1080934227,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2025-11-28T04:34:31Z",
+                    "open_issues": 0,
                     "owner": "Peopl3s",
                     "repo": "litestar-hexagonal-architecture-example",
-                    "stars": 4
+                    "stars": 4,
+                    "topics": [
+                      "alembic",
+                      "dishka",
+                      "docker",
+                      "faststream",
+                      "granian",
+                      "hexagonal",
+                      "hexagonal-architecture",
+                      "hexagonal-architecture-example",
+                      "hexagonal-architecture-template",
+                      "httpx",
+                      "litestar",
+                      "litestar-boilerplate",
+                      "litestar-example",
+                      "litestar-template",
+                      "pydantic",
+                      "pytest",
+                      "sqlalchemy",
+                      "stamina",
+                      "uv"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:07:05.068Z"
                 }
@@ -607,12 +1023,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Toy project to showcase Litestar, HTMX, TailwindCSS. Network Information API",
+                    "homepage": "https://niapi.app/",
                     "id": 658228833,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2024-04-28T04:03:13Z",
+                    "open_issues": 12,
                     "owner": "JacobCoffee",
                     "repo": "niapi",
-                    "stars": 17
+                    "stars": 17,
+                    "topics": [
+                      "api",
+                      "htmx",
+                      "litestar",
+                      "network",
+                      "python",
+                      "tailwindcss"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:07:05.068Z"
                 },
@@ -623,12 +1051,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Example App for getting OAuth2 working in litestar",
+                    "homepage": null,
                     "id": 671098357,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2023-07-26T14:33:25Z",
+                    "open_issues": 0,
                     "owner": "johnfaucette",
                     "repo": "litestar-oauth2-example",
-                    "stars": 11
+                    "stars": 11,
+                    "topics": [
+                      "example-project",
+                      "examples",
+                      "litestar",
+                      "oauth2"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:07:05.068Z"
                 }
@@ -647,15 +1085,28 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T06:07:05.068Z",
+    "last_updated": "2026-08-29T03:43:15.748Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of resources related to Litestar. ",
+      "homepage": "https://litestar.dev",
       "id": 677551554,
       "language": "Makefile",
+      "license": "MIT",
       "last_commit": "2026-07-07T16:43:15Z",
+      "open_issues": 3,
       "owner": "litestar-org",
       "repo": "awesome-litestar",
-      "stars": 168
+      "stars": 168,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "hacktoberfest",
+        "litestar",
+        "litestar-api",
+        "litestar-framework",
+        "litestar-meta"
+      ]
     },
     "original_repository_sha": "d74237a14b6024c5a4f59aace4ed857604d3a2ef",
     "enhanced_repository": "enhansome/enhansome-litestar",
