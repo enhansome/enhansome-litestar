@@ -87,7 +87,7 @@ framework
 
 <!--lint ignore awesome-list-item-->
 
-* [Source Code](https://github.com/litestar-org/litestar) ⭐ 8,430 | 🐛 321 | 🌐 Python | 📅 2026-08-28 is hosted on GitHub.
+* [Source Code](https://github.com/litestar-org/litestar) ⭐ 8,432 | 🐛 322 | 🌐 Python | 📅 2026-08-28 is hosted on GitHub.
 * [Documentation](https://docs.litestar.dev/) includes comprehensive API reference docs as well as usage guides.
 * [Tutorial](https://docs.litestar.dev/latest/tutorials/) on Litestar, for people that are new to Litestar.
 * Connect with the Litestar community on [Discord](https://discord.com/invite/X3FJqy8d2j), [Twitter](https://twitter.com/LitestarAPI), and [Reddit](https://www.reddit.com/r/litestarapi).
@@ -122,9 +122,9 @@ that you would normally find as third-party extensions in other frameworks.
 
 ### General
 
-* [`dishka`](https://github.com/reagento/dishka) ⭐ 1,268 | 🐛 66 | 🌐 Python | 📅 2026-08-25 - Cute DI framework with agreeable API and everything you need, including [Litestar integration](https://dishka.readthedocs.io/en/stable/integrations/index.html).
-* [`modern-di`](https://github.com/modern-python/modern-di) ⭐ 63 | 🐛 0 | 🌐 Python | 📅 2026-08-24 - Dependency injection framework with IoC container and scopes, including [Litestar integration](https://github.com/modern-python/modern-di-litestar) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2026-07-28.
-* [`litestar-granian`](https://github.com/cofin/litestar-granian) ⭐ 44 | 🐛 1 | 🌐 Python | 📅 2026-08-17 - A plugin for the [Granian](https://github.com/emmett-framework/granian) ⭐ 5,576 | 🐛 38 | 🌐 Rust | 📅 2026-08-23 HTTP server, written in Rust.<sup>\*</sup>
+* [`dishka`](https://github.com/reagento/dishka) ⭐ 1,267 | 🐛 67 | 🌐 Python | 📅 2026-08-25 - Cute DI framework with agreeable API and everything you need, including [Litestar integration](https://dishka.readthedocs.io/en/stable/integrations/index.html).
+* [`modern-di`](https://github.com/modern-python/modern-di) ⭐ 63 | 🐛 6 | 🌐 Python | 📅 2026-08-30 - Dependency injection framework with IoC container and scopes, including [Litestar integration](https://github.com/modern-python/modern-di-litestar) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2026-07-28.
+* [`litestar-granian`](https://github.com/cofin/litestar-granian) ⭐ 44 | 🐛 1 | 🌐 Python | 📅 2026-08-17 - A plugin for the [Granian](https://github.com/emmett-framework/granian) ⭐ 5,575 | 🐛 38 | 🌐 Rust | 📅 2026-08-23 HTTP server, written in Rust.<sup>\*</sup>
 * [`litestar-saq`](https://github.com/litestar-org/litestar-saq) ⭐ 32 | 🐛 8 | 🌐 Python | 📅 2026-08-15 - A plugin for the [SAQ job queuing framework](https://github.com/tobymao/saq) ⭐ 880 | 🐛 0 | 🌐 Python | 📅 2026-08-14<sup>\*</sup>
 * [`litestar-taskiq`](https://github.com/taskiq-python/taskiq-litestar) ⭐ 19 | 🐛 1 | 🌐 Python | 📅 2026-04-25 - [Taskiq](https://taskiq-python.github.io/) integration for Litestar.
 * [`litestar-svcs`](https://github.com/vkcku/litestar-svcs) ⭐ 11 | 🐛 0 | 🌐 Python | 📅 2023-11-30 - A plugin for the [SVCS](https://github.com/hynek/svcs) ⭐ 421 | 🐛 1 | 🌐 Python | 📅 2026-08-24 service locater/dependency injection library.<sup>\*</sup>
@@ -142,9 +142,9 @@ that you would normally find as third-party extensions in other frameworks.
 
 ### Auth
 
-* [`litestar-users`](https://github.com/mvbosch/litestar-users) ⭐ 99 | 🐛 6 | 🌐 Python | 📅 2026-07-10 - Authentication and user management for the
+* [`litestar-users`](https://github.com/mvbosch/litestar-users) ⭐ 100 | 🐛 6 | 🌐 Python | 📅 2026-07-10 - Authentication and user management for the
   Litestar framework.<sup>\*</sup>
-* [`litestar-auth`](https://github.com/ZYLVEXT/litestar-auth) ⭐ 3 | 🐛 0 | 🌐 Python | 📅 2026-08-25 - Production-ready authentication and authorization library for Litestar with JWT, password hashing, SQLAlchemy/Advanced Alchemy integration, optional Redis session storage, OAuth, and TOTP support.
+* [`litestar-auth`](https://github.com/ZYLVEXT/litestar-auth) ⭐ 3 | 🐛 6 | 🌐 Python | 📅 2026-08-30 - Production-ready authentication and authorization library for Litestar with JWT, password hashing, SQLAlchemy/Advanced Alchemy integration, optional Redis session storage, OAuth, and TOTP support.
 
 ### Databases
 
@@ -271,7 +271,7 @@ that you would normally find as third-party extensions in other frameworks.
 * [Litestar Fullstack with Vite, VueJS, Redis, PostgreSQL, and more](https://github.com/litestar-org/litestar-fullstack) ⭐ 609 | 🐛 19 | 🌐 Python | 📅 2026-08-03 - Made by [@cofin](https://github.com/cofin/).
 * [Litestar + SQLAlchemy 2 + PostgreSQL Template](https://github.com/modern-python/litestar-sqlalchemy-template) ⭐ 35 | 🐛 0 | 🌐 Python | 📅 2026-07-13 - Dockerized starter with dependency injection and Alembic. Made by [@modern-python](https://github.com/modern-python).
   <!--lint ignore awesome-list-item-->
-* [Clean Architecture Litestar Project Template](https://github.com/Peopl3s/clean-architecture-litestar-project-template) ⭐ 25 | 🐛 45 | 🌐 Python | 📅 2026-08-29
+* [Clean Architecture Litestar Project Template](https://github.com/Peopl3s/clean-architecture-litestar-project-template) ⭐ 25 | 🐛 45 | 🌐 Python | 📅 2026-08-30
 * [Basic Litestar App](https://github.com/JacobCoffee/litestar-template) ⭐ 8 | 🐛 2 | 🌐 CSS | 📅 2024-10-10 - Basic Litestar app with TailwindCSS.
 * [Example Litestar Service](https://github.com/andy-takker/example-litestar-service) ⭐ 5 | 🐛 0 | 🌐 Python | 📅 2026-06-10 - Production-ready Litestar service template with clean architecture, dishka DI, JWT auth with RBAC, NATS via FastStream, and observability.
 * [Hexagonal Architecture Litestar Project Example](https://github.com/Peopl3s/litestar-hexagonal-architecture-example) ⭐ 4 | 🐛 0 | 🌐 Python | 📅 2025-11-28
@@ -292,4 +292,4 @@ that you would normally find as third-party extensions in other frameworks.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._
