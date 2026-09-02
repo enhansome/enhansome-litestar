@@ -82,10 +82,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-08-31T09:29:13Z",
-                "open_issues": 323,
+                "open_issues": 324,
                 "owner": "litestar-org",
                 "repo": "litestar",
-                "stars": 8435,
+                "stars": 8439,
                 "topics": [
                   "api",
                   "asgi",
@@ -206,11 +206,11 @@
                 "id": 742987819,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-25T11:46:08Z",
-                "open_issues": 67,
+                "last_commit": "2026-09-01T10:09:47Z",
+                "open_issues": 65,
                 "owner": "reagento",
                 "repo": "dishka",
-                "stars": 1271,
+                "stars": 1273,
                 "topics": [
                   "dependency-injection",
                   "dependency-injector",
@@ -240,7 +240,7 @@
                 "open_issues": 6,
                 "owner": "modern-python",
                 "repo": "modern-di",
-                "stars": 63,
+                "stars": 65,
                 "topics": [
                   "asyncio",
                   "dependency-injection",
@@ -360,7 +360,7 @@
               "description": "Proof of concept using SAQ, Litestar, HTMX, and Server-Sent events for a simple SAQ job monitor.",
               "children": [],
               "repo_info": {
-                "archived": false,
+                "archived": true,
                 "description": null,
                 "homepage": null,
                 "id": 750549157,
@@ -651,7 +651,7 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-08-07T20:47:27Z",
-                    "open_issues": 45,
+                    "open_issues": 46,
                     "owner": "piccolo-orm",
                     "repo": "piccolo",
                     "stars": 1936,
@@ -701,7 +701,7 @@
                 "open_issues": 5,
                 "owner": "apitally",
                 "repo": "apitally-py",
-                "stars": 223,
+                "stars": 224,
                 "topics": [
                   "api",
                   "api-analytics",
@@ -1085,7 +1085,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T01:17:55.694Z",
+    "last_updated": "2026-09-02T00:14:10.004Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources related to Litestar. ",
