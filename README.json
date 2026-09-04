@@ -85,7 +85,7 @@
                 "open_issues": 326,
                 "owner": "litestar-org",
                 "repo": "litestar",
-                "stars": 8443,
+                "stars": 8444,
                 "topics": [
                   "api",
                   "asgi",
@@ -210,7 +210,7 @@
                 "open_issues": 65,
                 "owner": "reagento",
                 "repo": "dishka",
-                "stars": 1275,
+                "stars": 1276,
                 "topics": [
                   "dependency-injection",
                   "dependency-injector",
@@ -240,7 +240,7 @@
                 "open_issues": 6,
                 "owner": "modern-python",
                 "repo": "modern-di",
-                "stars": 65,
+                "stars": 66,
                 "topics": [
                   "asyncio",
                   "dependency-injection",
@@ -654,7 +654,7 @@
                     "open_issues": 46,
                     "owner": "piccolo-orm",
                     "repo": "piccolo",
-                    "stars": 1936,
+                    "stars": 1938,
                     "topics": [
                       "asgi",
                       "asyncio",
@@ -697,8 +697,8 @@
                 "id": 661287015,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-03T00:13:48Z",
-                "open_issues": 6,
+                "last_commit": "2026-09-03T23:07:02Z",
+                "open_issues": 5,
                 "owner": "apitally",
                 "repo": "apitally-py",
                 "stars": 224,
@@ -1085,7 +1085,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T00:15:44.148Z",
+    "last_updated": "2026-09-04T00:06:12.603Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources related to Litestar. ",
