@@ -85,7 +85,7 @@
                 "open_issues": 340,
                 "owner": "litestar-org",
                 "repo": "litestar",
-                "stars": 8453,
+                "stars": 8455,
                 "topics": [
                   "api",
                   "asgi",
@@ -206,11 +206,11 @@
                 "id": 742987819,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-01T10:09:47Z",
-                "open_issues": 65,
+                "last_commit": "2026-09-10T19:00:37Z",
+                "open_issues": 64,
                 "owner": "reagento",
                 "repo": "dishka",
-                "stars": 1279,
+                "stars": 1281,
                 "topics": [
                   "dependency-injection",
                   "dependency-injector",
@@ -654,7 +654,7 @@
                     "open_issues": 45,
                     "owner": "piccolo-orm",
                     "repo": "piccolo",
-                    "stars": 1940,
+                    "stars": 1941,
                     "topics": [
                       "asgi",
                       "asyncio",
@@ -697,7 +697,7 @@
                 "id": 661287015,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-09T14:15:15Z",
+                "last_commit": "2026-09-10T17:33:04Z",
                 "open_issues": 6,
                 "owner": "apitally",
                 "repo": "apitally-py",
@@ -746,7 +746,7 @@
                         "id": 59868262,
                         "language": "Python",
                         "license": "Apache-2.0",
-                        "last_commit": "2026-09-09T22:10:17Z",
+                        "last_commit": "2026-09-10T21:13:47Z",
                         "open_issues": 495,
                         "owner": "aws",
                         "repo": "chalice",
@@ -873,7 +873,7 @@
                     "open_issues": 45,
                     "owner": "Peopl3s",
                     "repo": "clean-architecture-litestar-project-template",
-                    "stars": 25,
+                    "stars": 26,
                     "topics": [
                       "alembic",
                       "alembic-migration",
@@ -1085,7 +1085,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T00:14:41.478Z",
+    "last_updated": "2026-09-11T00:10:26.610Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources related to Litestar. ",
