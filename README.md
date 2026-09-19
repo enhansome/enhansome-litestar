@@ -87,7 +87,7 @@ framework
 
 <!--lint ignore awesome-list-item-->
 
-* [Source Code](https://github.com/litestar-org/litestar) ⭐ 8,469 | 🐛 343 | 🌐 Python | 📅 2026-09-17 is hosted on GitHub.
+* [Source Code](https://github.com/litestar-org/litestar) ⭐ 8,469 | 🐛 344 | 🌐 Python | 📅 2026-09-18 is hosted on GitHub.
 * [Documentation](https://docs.litestar.dev/) includes comprehensive API reference docs as well as usage guides.
 * [Tutorial](https://docs.litestar.dev/latest/tutorials/) on Litestar, for people that are new to Litestar.
 * Connect with the Litestar community on [Discord](https://discord.com/invite/X3FJqy8d2j), [Twitter](https://twitter.com/LitestarAPI), and [Reddit](https://www.reddit.com/r/litestarapi).
@@ -122,10 +122,10 @@ that you would normally find as third-party extensions in other frameworks.
 
 ### General
 
-* [`dishka`](https://github.com/reagento/dishka) ⭐ 1,284 | 🐛 64 | 🌐 Python | 📅 2026-09-10 - Cute DI framework with agreeable API and everything you need, including [Litestar integration](https://dishka.readthedocs.io/en/stable/integrations/index.html).
+* [`dishka`](https://github.com/reagento/dishka) ⭐ 1,284 | 🐛 60 | 🌐 Python | 📅 2026-09-18 - Cute DI framework with agreeable API and everything you need, including [Litestar integration](https://dishka.readthedocs.io/en/stable/integrations/index.html).
 * [`modern-di`](https://github.com/modern-python/modern-di) ⭐ 66 | 🐛 7 | 🌐 Python | 📅 2026-09-15 - Dependency injection framework with IoC container and scopes, including [Litestar integration](https://github.com/modern-python/modern-di-litestar) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2026-09-15.
-* [`litestar-granian`](https://github.com/cofin/litestar-granian) ⭐ 44 | 🐛 3 | 🌐 Python | 📅 2026-09-14 - A plugin for the [Granian](https://github.com/emmett-framework/granian) ⭐ 5,652 | 🐛 41 | 🌐 Rust | 📅 2026-09-14 HTTP server, written in Rust.<sup>\*</sup>
-* [`litestar-saq`](https://github.com/litestar-org/litestar-saq) ⭐ 34 | 🐛 8 | 🌐 Python | 📅 2026-08-15 - A plugin for the [SAQ job queuing framework](https://github.com/tobymao/saq) ⭐ 886 | 🐛 0 | 🌐 Python | 📅 2026-08-14<sup>\*</sup>
+* [`litestar-granian`](https://github.com/cofin/litestar-granian) ⭐ 44 | 🐛 3 | 🌐 Python | 📅 2026-09-14 - A plugin for the [Granian](https://github.com/emmett-framework/granian) ⭐ 5,657 | 🐛 41 | 🌐 Rust | 📅 2026-09-14 HTTP server, written in Rust.<sup>\*</sup>
+* [`litestar-saq`](https://github.com/litestar-org/litestar-saq) ⭐ 34 | 🐛 8 | 🌐 Python | 📅 2026-08-15 - A plugin for the [SAQ job queuing framework](https://github.com/tobymao/saq) ⭐ 887 | 🐛 0 | 🌐 Python | 📅 2026-08-14<sup>\*</sup>
 * [`litestar-taskiq`](https://github.com/taskiq-python/taskiq-litestar) ⭐ 20 | 🐛 1 | 🌐 Python | 📅 2026-04-25 - [Taskiq](https://taskiq-python.github.io/) integration for Litestar.
 * [`litestar-svcs`](https://github.com/vkcku/litestar-svcs) ⭐ 11 | 🐛 0 | 🌐 Python | 📅 2023-11-30 - A plugin for the [SVCS](https://github.com/hynek/svcs) ⭐ 421 | 🐛 2 | 🌐 Python | 📅 2026-09-08 service locater/dependency injection library.<sup>\*</sup>
 * [`litestar-saq-htmx`](https://github.com/euri10/litestar_saq_htmx) ⚠️ Archived - Proof of concept using SAQ, Litestar, HTMX, and Server-Sent events for a simple SAQ job monitor.
@@ -150,7 +150,7 @@ that you would normally find as third-party extensions in other frameworks.
 
 #### ORMs
 
-* [Piccolo](https://github.com/piccolo-orm/piccolo) ⭐ 1,942 | 🐛 47 | 🌐 Python | 📅 2026-09-14 - An async ORM and query builder, supporting Postgres and SQLite,
+* [Piccolo](https://github.com/piccolo-orm/piccolo) ⭐ 1,944 | 🐛 47 | 🌐 Python | 📅 2026-09-14 - An async ORM and query builder, supporting Postgres and SQLite,
   with batteries (migrations, security, etc).
   * [Litestar Example](https://github.com/sinisaos/litestar-piccolo) ⭐ 15 | 🐛 0 | 🌐 Vue | 📅 2025-01-07 - Using Litestar withPiccolo.
   * [Litestar Docs - Piccolo](https://docs.litestar.dev/latest/usage/databases/piccolo.html) - Documentation on using
@@ -165,7 +165,7 @@ that you would normally find as third-party extensions in other frameworks.
 
 ### Monitoring
 
-* [`apitally`](https://github.com/apitally/apitally-py) ⭐ 225 | 🐛 2 | 🌐 Python | 📅 2026-09-17 - A plugin for easy API monitoring with [Apitally](https://apitally.io/litestar) (including API traffic, errors, response times, payload sizes and uptime).<sup>\*</sup>
+* [`apitally`](https://github.com/apitally/apitally-py) ⭐ 225 | 🐛 1 | 🌐 Python | 📅 2026-09-18 - A plugin for easy API monitoring with [Apitally](https://apitally.io/litestar) (including API traffic, errors, response times, payload sizes and uptime).<sup>\*</sup>
 
 ### Other
 
@@ -292,4 +292,4 @@ that you would normally find as third-party extensions in other frameworks.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-19._
