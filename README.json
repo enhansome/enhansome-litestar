@@ -81,11 +81,11 @@
                 "id": 435625572,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-19T01:49:42Z",
+                "last_commit": "2026-09-20T18:03:25Z",
                 "open_issues": 345,
                 "owner": "litestar-org",
                 "repo": "litestar",
-                "stars": 8467,
+                "stars": 8470,
                 "topics": [
                   "api",
                   "asgi",
@@ -236,7 +236,7 @@
                 "id": 879368249,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-19T11:04:24Z",
+                "last_commit": "2026-09-20T10:59:08Z",
                 "open_issues": 7,
                 "owner": "modern-python",
                 "repo": "modern-di",
@@ -466,7 +466,7 @@
                 "open_issues": 39,
                 "owner": "piccolo-orm",
                 "repo": "piccolo_admin",
-                "stars": 467,
+                "stars": 466,
                 "topics": [
                   "admin",
                   "asgi",
@@ -573,7 +573,7 @@
                 "id": 1195260042,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-13T19:45:49Z",
+                "last_commit": "2026-09-20T19:49:00Z",
                 "open_issues": 10,
                 "owner": "ZYLVEXT",
                 "repo": "litestar-auth",
@@ -654,7 +654,7 @@
                     "open_issues": 47,
                     "owner": "piccolo-orm",
                     "repo": "piccolo",
-                    "stars": 1944,
+                    "stars": 1943,
                     "topics": [
                       "asgi",
                       "asyncio",
@@ -697,11 +697,11 @@
                 "id": 661287015,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-18T13:37:27Z",
+                "last_commit": "2026-09-20T11:32:52Z",
                 "open_issues": 1,
                 "owner": "apitally",
                 "repo": "apitally-py",
-                "stars": 225,
+                "stars": 224,
                 "topics": [
                   "api",
                   "api-analytics",
@@ -750,7 +750,7 @@
                         "open_issues": 495,
                         "owner": "aws",
                         "repo": "chalice",
-                        "stars": 11058,
+                        "stars": 11057,
                         "topics": [
                           "aws",
                           "aws-apigateway",
@@ -801,7 +801,7 @@
                     "open_issues": 19,
                     "owner": "litestar-org",
                     "repo": "litestar-fullstack",
-                    "stars": 610,
+                    "stars": 611,
                     "topics": [
                       "hacktoberfest",
                       "litestar",
@@ -1085,7 +1085,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T00:09:09.159Z",
+    "last_updated": "2026-09-21T00:16:25.031Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources related to Litestar. ",
