@@ -81,11 +81,11 @@
                 "id": 435625572,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-21T08:05:38Z",
-                "open_issues": 346,
+                "last_commit": "2026-09-22T21:33:43Z",
+                "open_issues": 347,
                 "owner": "litestar-org",
                 "repo": "litestar",
-                "stars": 8472,
+                "stars": 8476,
                 "topics": [
                   "api",
                   "asgi",
@@ -124,7 +124,7 @@
                     "open_issues": 4,
                     "owner": "litestar-org",
                     "repo": "litestar-asyncpg",
-                    "stars": 14,
+                    "stars": 15,
                     "topics": [
                       "asyncpg",
                       "litestar",
@@ -267,7 +267,7 @@
                 "id": 699131169,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-14T14:34:06Z",
+                "last_commit": "2026-09-22T14:33:48Z",
                 "open_issues": 3,
                 "owner": "cofin",
                 "repo": "litestar-granian",
@@ -654,7 +654,7 @@
                     "open_issues": 47,
                     "owner": "piccolo-orm",
                     "repo": "piccolo",
-                    "stars": 1944,
+                    "stars": 1945,
                     "topics": [
                       "asgi",
                       "asyncio",
@@ -801,7 +801,7 @@
                     "open_issues": 19,
                     "owner": "litestar-org",
                     "repo": "litestar-fullstack",
-                    "stars": 611,
+                    "stars": 610,
                     "topics": [
                       "hacktoberfest",
                       "litestar",
@@ -869,7 +869,7 @@
                     "id": 1078016498,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-09-21T22:04:36Z",
+                    "last_commit": "2026-09-22T11:05:37Z",
                     "open_issues": 45,
                     "owner": "Peopl3s",
                     "repo": "clean-architecture-litestar-project-template",
@@ -1085,7 +1085,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T00:50:03.774Z",
+    "last_updated": "2026-09-23T00:32:59.516Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources related to Litestar. ",
