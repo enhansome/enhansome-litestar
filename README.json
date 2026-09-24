@@ -81,11 +81,11 @@
                 "id": 435625572,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-22T21:33:43Z",
-                "open_issues": 347,
+                "last_commit": "2026-09-23T09:36:39Z",
+                "open_issues": 348,
                 "owner": "litestar-org",
                 "repo": "litestar",
-                "stars": 8476,
+                "stars": 8478,
                 "topics": [
                   "api",
                   "asgi",
@@ -236,7 +236,7 @@
                 "id": 879368249,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-20T10:59:08Z",
+                "last_commit": "2026-09-23T23:13:31Z",
                 "open_issues": 7,
                 "owner": "modern-python",
                 "repo": "modern-di",
@@ -654,7 +654,7 @@
                     "open_issues": 47,
                     "owner": "piccolo-orm",
                     "repo": "piccolo",
-                    "stars": 1945,
+                    "stars": 1946,
                     "topics": [
                       "asgi",
                       "asyncio",
@@ -750,7 +750,7 @@
                         "open_issues": 498,
                         "owner": "aws",
                         "repo": "chalice",
-                        "stars": 11057,
+                        "stars": 11056,
                         "topics": [
                           "aws",
                           "aws-apigateway",
@@ -869,7 +869,7 @@
                     "id": 1078016498,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-09-22T11:05:37Z",
+                    "last_commit": "2026-09-23T10:35:15Z",
                     "open_issues": 45,
                     "owner": "Peopl3s",
                     "repo": "clean-architecture-litestar-project-template",
@@ -1085,7 +1085,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T00:32:59.516Z",
+    "last_updated": "2026-09-24T00:30:20.824Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources related to Litestar. ",
