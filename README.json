@@ -85,7 +85,7 @@
                 "open_issues": 347,
                 "owner": "litestar-org",
                 "repo": "litestar",
-                "stars": 8481,
+                "stars": 8483,
                 "topics": [
                   "api",
                   "asgi",
@@ -210,7 +210,7 @@
                 "open_issues": 62,
                 "owner": "reagento",
                 "repo": "dishka",
-                "stars": 1284,
+                "stars": 1285,
                 "topics": [
                   "dependency-injection",
                   "dependency-injector",
@@ -654,7 +654,7 @@
                     "open_issues": 48,
                     "owner": "piccolo-orm",
                     "repo": "piccolo",
-                    "stars": 1946,
+                    "stars": 1947,
                     "topics": [
                       "asgi",
                       "asyncio",
@@ -697,7 +697,7 @@
                 "id": 661287015,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-25T20:51:36Z",
+                "last_commit": "2026-09-26T13:47:00Z",
                 "open_issues": 2,
                 "owner": "apitally",
                 "repo": "apitally-py",
@@ -750,7 +750,7 @@
                         "open_issues": 500,
                         "owner": "aws",
                         "repo": "chalice",
-                        "stars": 11056,
+                        "stars": 11054,
                         "topics": [
                           "aws",
                           "aws-apigateway",
@@ -869,7 +869,7 @@
                     "id": 1078016498,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-09-24T21:56:49Z",
+                    "last_commit": "2026-09-26T17:36:09Z",
                     "open_issues": 45,
                     "owner": "Peopl3s",
                     "repo": "clean-architecture-litestar-project-template",
@@ -1085,7 +1085,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T00:37:31.098Z",
+    "last_updated": "2026-09-27T00:35:58.440Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources related to Litestar. ",
