@@ -87,7 +87,7 @@ framework
 
 <!--lint ignore awesome-list-item-->
 
-* [Source Code](https://github.com/litestar-org/litestar) ⭐ 8,487 | 🐛 351 | 🌐 Python | 📅 2026-09-30 is hosted on GitHub.
+* [Source Code](https://github.com/litestar-org/litestar) ⭐ 8,488 | 🐛 353 | 🌐 Python | 📅 2026-10-01 is hosted on GitHub.
 * [Documentation](https://docs.litestar.dev/) includes comprehensive API reference docs as well as usage guides.
 * [Tutorial](https://docs.litestar.dev/latest/tutorials/) on Litestar, for people that are new to Litestar.
 * Connect with the Litestar community on [Discord](https://discord.com/invite/X3FJqy8d2j), [Twitter](https://twitter.com/LitestarAPI), and [Reddit](https://www.reddit.com/r/litestarapi).
@@ -122,15 +122,15 @@ that you would normally find as third-party extensions in other frameworks.
 
 ### General
 
-* [`dishka`](https://github.com/reagento/dishka) ⭐ 1,289 | 🐛 62 | 🌐 Python | 📅 2026-09-18 - Cute DI framework with agreeable API and everything you need, including [Litestar integration](https://dishka.readthedocs.io/en/stable/integrations/index.html).
+* [`dishka`](https://github.com/reagento/dishka) ⭐ 1,290 | 🐛 65 | 🌐 Python | 📅 2026-10-01 - Cute DI framework with agreeable API and everything you need, including [Litestar integration](https://dishka.readthedocs.io/en/stable/integrations/index.html).
 * [`modern-di`](https://github.com/modern-python/modern-di) ⭐ 66 | 🐛 8 | 🌐 Python | 📅 2026-09-27 - Dependency injection framework with IoC container and scopes, including [Litestar integration](https://github.com/modern-python/modern-di-litestar) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2026-09-27.
-* [`litestar-granian`](https://github.com/cofin/litestar-granian) ⭐ 44 | 🐛 4 | 🌐 Python | 📅 2026-09-29 - A plugin for the [Granian](https://github.com/emmett-framework/granian) ⭐ 5,680 | 🐛 43 | 🌐 Rust | 📅 2026-09-30 HTTP server, written in Rust.<sup>\*</sup>
+* [`litestar-granian`](https://github.com/cofin/litestar-granian) ⭐ 44 | 🐛 4 | 🌐 Python | 📅 2026-09-29 - A plugin for the [Granian](https://github.com/emmett-framework/granian) ⭐ 5,679 | 🐛 45 | 🌐 Rust | 📅 2026-10-01 HTTP server, written in Rust.<sup>\*</sup>
 * [`litestar-saq`](https://github.com/litestar-org/litestar-saq) ⭐ 34 | 🐛 8 | 🌐 Python | 📅 2026-08-15 - A plugin for the [SAQ job queuing framework](https://github.com/tobymao/saq) ⭐ 890 | 🐛 0 | 🌐 Python | 📅 2026-08-14<sup>\*</sup>
 * [`litestar-taskiq`](https://github.com/taskiq-python/taskiq-litestar) ⭐ 20 | 🐛 1 | 🌐 Python | 📅 2026-04-25 - [Taskiq](https://taskiq-python.github.io/) integration for Litestar.
-* [`litestar-svcs`](https://github.com/vkcku/litestar-svcs) ⭐ 11 | 🐛 0 | 🌐 Python | 📅 2023-11-30 - A plugin for the [SVCS](https://github.com/hynek/svcs) ⭐ 421 | 🐛 2 | 🌐 Python | 📅 2026-09-08 service locater/dependency injection library.<sup>\*</sup>
+* [`litestar-svcs`](https://github.com/vkcku/litestar-svcs) ⭐ 11 | 🐛 0 | 🌐 Python | 📅 2023-11-30 - A plugin for the [SVCS](https://github.com/hynek/svcs) ⭐ 421 | 🐛 1 | 🌐 Python | 📅 2026-10-01 service locater/dependency injection library.<sup>\*</sup>
 * [`litestar-saq-htmx`](https://github.com/euri10/litestar_saq_htmx) ⚠️ Archived - Proof of concept using SAQ, Litestar, HTMX, and Server-Sent events for a simple SAQ job monitor.
 * [`litestar-MQTT`](https://github.com/Alurith/litestar-mqtt) ⭐ 5 | 🐛 0 | 🌐 Python | 📅 2023-08-31 - A plugin for the MQTT protocol.
-* [`litestar-aiosql`](https://github.com/cofin/litestar-aiosql) ⭐ 5 | 🐛 0 | 🌐 Makefile | 📅 2024-09-17 - A plugin for the [aiosql](https://github.com/nackjicholson/aiosql) ⭐ 1,411 | 🐛 1 | 🌐 Python | 📅 2026-08-15 database query builder.<sup>\*</sup>
+* [`litestar-aiosql`](https://github.com/cofin/litestar-aiosql) ⭐ 5 | 🐛 0 | 🌐 Makefile | 📅 2024-09-17 - A plugin for the [aiosql](https://github.com/nackjicholson/aiosql) ⭐ 1,412 | 🐛 1 | 🌐 Python | 📅 2026-08-15 database query builder.<sup>\*</sup>
 * [`litestar-psycopg`](https://github.com/Kumokage/litestar-psycopg) ⭐ 2 | 🐛 0 | 🌐 Python | 📅 2025-05-17 - A plugin for the [Psycopg](https://www.psycopg.org/psycopg3/docs/) database driver.
 
 ### Admin
@@ -150,7 +150,7 @@ that you would normally find as third-party extensions in other frameworks.
 
 #### ORMs
 
-* [Piccolo](https://github.com/piccolo-orm/piccolo) ⭐ 1,948 | 🐛 48 | 🌐 Python | 📅 2026-09-14 - An async ORM and query builder, supporting Postgres and SQLite,
+* [Piccolo](https://github.com/piccolo-orm/piccolo) ⭐ 1,948 | 🐛 49 | 🌐 Python | 📅 2026-09-14 - An async ORM and query builder, supporting Postgres and SQLite,
   with batteries (migrations, security, etc).
   * [Litestar Example](https://github.com/sinisaos/litestar-piccolo) ⭐ 15 | 🐛 0 | 🌐 Vue | 📅 2025-01-07 - Using Litestar withPiccolo.
   * [Litestar Docs - Piccolo](https://docs.litestar.dev/latest/usage/databases/piccolo.html) - Documentation on using
@@ -165,7 +165,7 @@ that you would normally find as third-party extensions in other frameworks.
 
 ### Monitoring
 
-* [`apitally`](https://github.com/apitally/apitally-py) ⭐ 224 | 🐛 1 | 🌐 Python | 📅 2026-09-30 - A plugin for easy API monitoring with [Apitally](https://apitally.io/litestar) (including API traffic, errors, response times, payload sizes and uptime).<sup>\*</sup>
+* [`apitally`](https://github.com/apitally/apitally-py) ⭐ 224 | 🐛 1 | 🌐 Python | 📅 2026-10-01 - A plugin for easy API monitoring with [Apitally](https://apitally.io/litestar) (including API traffic, errors, response times, payload sizes and uptime).<sup>\*</sup>
 
 ### Other
 
@@ -241,7 +241,7 @@ that you would normally find as third-party extensions in other frameworks.
 
 ##### Frameworks
 
-* [Chalice](https://github.com/aws/chalice) ⭐ 11,054 | 🐛 501 | 🌐 Python | 📅 2026-09-11 - Python Serverless Microframework for AWS.
+* [Chalice](https://github.com/aws/chalice) ⭐ 11,052 | 🐛 501 | 🌐 Python | 📅 2026-09-11 - Python Serverless Microframework for AWS.
 * [Mangum](https://mangum.io/) - Adapter for running ASGI applications with AWS Lambda and API Gateway.
 * [Vercel](https://vercel.com/) - Serverless Functions and Hosting.
 
@@ -292,4 +292,4 @@ that you would normally find as third-party extensions in other frameworks.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
