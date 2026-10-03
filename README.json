@@ -1,193 +1,136 @@
 {
   "items": [
     {
-      "description": "[!IMPORTANT]Starlite has been renamed to Litestar\nA curated list of awesome things related to Litestar.\nEffortlessly build performant APIs with Litestar - The powerful, lightweight and flexible ASGI framework\nrepositories are marked with * to indicate they extend functionality through the plugin system.",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "CI/CD",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A curated list of resources related to Litestar. ",
-            "homepage": "https://litestar.dev",
-            "id": 677551554,
-            "language": "Makefile",
-            "license": "MIT",
-            "last_commit": "2026-07-07T16:43:15Z",
-            "open_issues": 3,
-            "owner": "litestar-org",
-            "repo": "awesome-litestar",
-            "stars": 168,
-            "topics": [
-              "awesome",
-              "awesome-list",
-              "hacktoberfest",
-              "litestar",
-              "litestar-api",
-              "litestar-framework",
-              "litestar-meta"
-            ]
-          },
-          "first_seen": "2026-08-28T06:07:05.068Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Meta",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A curated list of resources related to Litestar. ",
-            "homepage": "https://litestar.dev",
-            "id": 677551554,
-            "language": "Makefile",
-            "license": "MIT",
-            "last_commit": "2026-07-07T16:43:15Z",
-            "open_issues": 3,
-            "owner": "litestar-org",
-            "repo": "awesome-litestar",
-            "stars": 168,
-            "topics": [
-              "awesome",
-              "awesome-list",
-              "hacktoberfest",
-              "litestar",
-              "litestar-api",
-              "litestar-framework",
-              "litestar-meta"
-            ]
-          },
-          "first_seen": "2026-08-28T06:07:05.068Z"
-        }
-      ],
-      "title": "Overview"
-    },
-    {
       "description": null,
       "items": [
         {
           "children": [
             {
-              "node_type": "item",
-              "title": "litestar-org/litestar",
-              "description": "is hosted on GitHub.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Light, flexible and extensible ASGI framework | Built to scale",
-                "homepage": "https://docs.litestar.dev/",
-                "id": 435625572,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2026-10-02T12:15:29Z",
-                "open_issues": 353,
-                "owner": "litestar-org",
-                "repo": "litestar",
-                "stars": 8488,
-                "topics": [
-                  "api",
-                  "asgi",
-                  "asyncio",
-                  "litestar",
-                  "litestar-api",
-                  "litestar-framework",
-                  "msgspec",
-                  "openapi",
-                  "pydantic",
-                  "python",
-                  "rapidoc",
-                  "redoc",
-                  "rest",
-                  "starlite",
-                  "swagger"
-                ]
-              },
-              "first_seen": "2026-08-28T06:07:05.068Z"
-            },
-            {
               "children": [
                 {
                   "node_type": "item",
-                  "title": "litestar-asyncpg",
-                  "description": "A plugin for the AsyncPG database driver.*",
+                  "title": "litestar-org/litestar",
+                  "description": "is hosted on GitHub.",
                   "children": [],
                   "repo_info": {
                     "archived": false,
-                    "description": "Database connection management plugin for Litestar and asyncpg",
-                    "homepage": null,
-                    "id": 699095510,
+                    "description": "Light, flexible and extensible ASGI framework | Built to scale",
+                    "homepage": "https://docs.litestar.dev/",
+                    "id": 435625572,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-09-28T13:25:27Z",
-                    "open_issues": 4,
+                    "last_commit": "2026-10-02T12:15:29Z",
+                    "open_issues": 353,
                     "owner": "litestar-org",
-                    "repo": "litestar-asyncpg",
-                    "stars": 15,
+                    "repo": "litestar",
+                    "stars": 8488,
                     "topics": [
-                      "asyncpg",
+                      "api",
+                      "asgi",
+                      "asyncio",
                       "litestar",
                       "litestar-api",
-                      "litestar-framework"
+                      "litestar-framework",
+                      "msgspec",
+                      "openapi",
+                      "pydantic",
+                      "python",
+                      "rapidoc",
+                      "redoc",
+                      "rest",
+                      "starlite",
+                      "swagger"
                     ]
                   },
                   "first_seen": "2026-08-28T06:07:05.068Z"
                 },
                 {
-                  "node_type": "item",
-                  "title": "vite-plugin",
-                  "description": "A Vite adapter for Litestar.",
-                  "children": [],
-                  "repo_info": {
-                    "archived": true,
-                    "description": "Litestar Adapter for Vite",
-                    "homepage": null,
-                    "id": 711249998,
-                    "language": "TypeScript",
-                    "license": "NOASSERTION",
-                    "last_commit": "2024-08-05T23:21:23Z",
-                    "open_issues": 0,
-                    "owner": "litestar-org",
-                    "repo": "vite-plugin",
-                    "stars": 7,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-28T06:07:05.068Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "litestar-piccolo",
-                  "description": "A Piccolo ORM adapter for Litestar.*",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Litestar plugin for the Piccolo ORM",
-                    "homepage": null,
-                    "id": 720183534,
-                    "language": "Python",
-                    "license": "MIT",
-                    "last_commit": "2024-11-25T15:40:51Z",
-                    "open_issues": 2,
-                    "owner": "litestar-org",
-                    "repo": "litestar-piccolo",
-                    "stars": 6,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-28T06:07:05.068Z"
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "litestar-asyncpg",
+                      "description": "A plugin for the AsyncPG database driver.*",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": "Database connection management plugin for Litestar and asyncpg",
+                        "homepage": null,
+                        "id": 699095510,
+                        "language": "Python",
+                        "license": "MIT",
+                        "last_commit": "2026-09-28T13:25:27Z",
+                        "open_issues": 4,
+                        "owner": "litestar-org",
+                        "repo": "litestar-asyncpg",
+                        "stars": 15,
+                        "topics": [
+                          "asyncpg",
+                          "litestar",
+                          "litestar-api",
+                          "litestar-framework"
+                        ]
+                      },
+                      "first_seen": "2026-08-28T06:07:05.068Z"
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "vite-plugin",
+                      "description": "A Vite adapter for Litestar.",
+                      "children": [],
+                      "repo_info": {
+                        "archived": true,
+                        "description": "Litestar Adapter for Vite",
+                        "homepage": null,
+                        "id": 711249998,
+                        "language": "TypeScript",
+                        "license": "NOASSERTION",
+                        "last_commit": "2024-08-05T23:21:23Z",
+                        "open_issues": 0,
+                        "owner": "litestar-org",
+                        "repo": "vite-plugin",
+                        "stars": 7,
+                        "topics": []
+                      },
+                      "first_seen": "2026-08-28T06:07:05.068Z"
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "litestar-piccolo",
+                      "description": "A Piccolo ORM adapter for Litestar.*",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": "Litestar plugin for the Piccolo ORM",
+                        "homepage": null,
+                        "id": 720183534,
+                        "language": "Python",
+                        "license": "MIT",
+                        "last_commit": "2024-11-25T15:40:51Z",
+                        "open_issues": 2,
+                        "owner": "litestar-org",
+                        "repo": "litestar-piccolo",
+                        "stars": 6,
+                        "topics": []
+                      },
+                      "first_seen": "2026-08-28T06:07:05.068Z"
+                    }
+                  ],
+                  "description": null,
+                  "node_type": "group",
+                  "title": "Internal Utils"
                 }
               ],
               "description": null,
               "node_type": "group",
-              "title": "Internal Utils"
+              "title": "Official Resources"
             }
           ],
           "description": null,
           "node_type": "group",
-          "title": "Official Resources"
+          "title": "Official"
         }
       ],
-      "title": "Official"
+      "title": "Resources"
     },
     {
       "description": null,
@@ -653,7 +596,7 @@
                     "open_issues": 51,
                     "owner": "piccolo-orm",
                     "repo": "piccolo",
-                    "stars": 1948,
+                    "stars": 1949,
                     "topics": [
                       "asgi",
                       "asyncio",
@@ -696,8 +639,8 @@
                 "id": 661287015,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-02T18:39:17Z",
-                "open_issues": 1,
+                "last_commit": "2026-10-03T01:50:43Z",
+                "open_issues": 2,
                 "owner": "apitally",
                 "repo": "apitally-py",
                 "stars": 224,
@@ -859,7 +802,7 @@
                 {
                   "node_type": "item",
                   "title": "Clean Architecture Litestar Project Template",
-                  "description": null,
+                  "description": "Peopl3s/clean-architecture-litestar-project-template",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -970,7 +913,7 @@
                 {
                   "node_type": "item",
                   "title": "Hexagonal Architecture Litestar Project Example",
-                  "description": null,
+                  "description": "Peopl3s/litestar-hexagonal-architecture-example",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1084,7 +1027,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T01:11:57.881Z",
+    "last_updated": "2026-10-03T04:52:16.900Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources related to Litestar. ",
