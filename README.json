@@ -20,7 +20,7 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-10-06T09:02:04Z",
-                    "open_issues": 354,
+                    "open_issues": 352,
                     "owner": "litestar-org",
                     "repo": "litestar",
                     "stars": 8496,
@@ -179,8 +179,8 @@
                 "id": 879368249,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-06T10:50:00Z",
-                "open_issues": 9,
+                "last_commit": "2026-10-06T19:43:11Z",
+                "open_issues": 4,
                 "owner": "modern-python",
                 "repo": "modern-di",
                 "stars": 66,
@@ -596,7 +596,7 @@
                     "open_issues": 52,
                     "owner": "piccolo-orm",
                     "repo": "piccolo",
-                    "stars": 1949,
+                    "stars": 1950,
                     "topics": [
                       "asgi",
                       "asyncio",
@@ -692,7 +692,7 @@
                         "open_issues": 502,
                         "owner": "aws",
                         "repo": "chalice",
-                        "stars": 11055,
+                        "stars": 11054,
                         "topics": [
                           "aws",
                           "aws-apigateway",
@@ -1027,7 +1027,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:50:41.017Z",
+    "last_updated": "2026-10-07T01:31:53.858Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources related to Litestar. ",
