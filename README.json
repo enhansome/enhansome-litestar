@@ -20,10 +20,10 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-10-06T09:02:04Z",
-                    "open_issues": 357,
+                    "open_issues": 358,
                     "owner": "litestar-org",
                     "repo": "litestar",
-                    "stars": 8497,
+                    "stars": 8501,
                     "topics": [
                       "api",
                       "asgi",
@@ -639,7 +639,7 @@
                 "id": 661287015,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-06T00:01:28Z",
+                "last_commit": "2026-10-08T12:45:09Z",
                 "open_issues": 1,
                 "owner": "apitally",
                 "repo": "apitally-py",
@@ -740,7 +740,7 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-10-05T17:13:26Z",
-                    "open_issues": 21,
+                    "open_issues": 22,
                     "owner": "litestar-org",
                     "repo": "litestar-fullstack",
                     "stars": 612,
@@ -811,7 +811,7 @@
                     "id": 1078016498,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-10-07T23:34:08Z",
+                    "last_commit": "2026-10-08T20:09:59Z",
                     "open_issues": 45,
                     "owner": "Peopl3s",
                     "repo": "clean-architecture-litestar-project-template",
@@ -1027,7 +1027,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T01:55:28.047Z",
+    "last_updated": "2026-10-09T02:09:38.200Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources related to Litestar. ",
