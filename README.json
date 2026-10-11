@@ -23,7 +23,7 @@
                     "open_issues": 359,
                     "owner": "litestar-org",
                     "repo": "litestar",
-                    "stars": 8504,
+                    "stars": 8506,
                     "topics": [
                       "api",
                       "asgi",
@@ -150,10 +150,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-07T22:03:23Z",
-                "open_issues": 64,
+                "open_issues": 63,
                 "owner": "reagento",
                 "repo": "dishka",
-                "stars": 1293,
+                "stars": 1294,
                 "topics": [
                   "dependency-injection",
                   "dependency-injector",
@@ -179,8 +179,8 @@
                 "id": 879368249,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-09T19:58:02Z",
-                "open_issues": 6,
+                "last_commit": "2026-10-10T20:18:07Z",
+                "open_issues": 8,
                 "owner": "modern-python",
                 "repo": "modern-di",
                 "stars": 66,
@@ -639,7 +639,7 @@
                 "id": 661287015,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-10T01:35:10Z",
+                "last_commit": "2026-10-10T09:25:06Z",
                 "open_issues": 2,
                 "owner": "apitally",
                 "repo": "apitally-py",
@@ -689,10 +689,10 @@
                         "language": "Python",
                         "license": "Apache-2.0",
                         "last_commit": "2026-10-03T14:34:09Z",
-                        "open_issues": 500,
+                        "open_issues": 501,
                         "owner": "aws",
                         "repo": "chalice",
-                        "stars": 11056,
+                        "stars": 11057,
                         "topics": [
                           "aws",
                           "aws-apigateway",
@@ -1027,7 +1027,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T01:45:19.497Z",
+    "last_updated": "2026-10-11T01:00:21.160Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources related to Litestar. ",
