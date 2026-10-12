@@ -23,7 +23,7 @@
                     "open_issues": 359,
                     "owner": "litestar-org",
                     "repo": "litestar",
-                    "stars": 8506,
+                    "stars": 8511,
                     "topics": [
                       "api",
                       "asgi",
@@ -46,6 +46,344 @@
                 },
                 {
                   "children": [
+                    {
+                      "node_type": "item",
+                      "title": "polyfactory",
+                      "description": "Simple and powerful factories for mock data generation.",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": "Simple and powerful factories for mock data generation",
+                        "homepage": "https://polyfactory.litestar.dev/",
+                        "id": 427718519,
+                        "language": "Python",
+                        "license": "MIT",
+                        "last_commit": "2026-10-11T19:37:57Z",
+                        "open_issues": 81,
+                        "owner": "litestar-org",
+                        "repo": "polyfactory",
+                        "stars": 1516,
+                        "topics": [
+                          "beanie",
+                          "dataclasses",
+                          "hacktoberfest",
+                          "litestar",
+                          "msgspec",
+                          "odmantic",
+                          "polyfactory",
+                          "pydantic",
+                          "pydantic-factories",
+                          "python",
+                          "starlite",
+                          "typeddict"
+                        ]
+                      },
+                      "first_seen": "2026-10-12T01:19:39.235Z"
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "advanced-alchemy",
+                      "description": "A carefully crafted, thoroughly tested, optimized companion library for SQLAlchemy with first-party Litestar integration.",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": "A carefully crafted, thoroughly tested, optimized companion library for SQLAlchemy",
+                        "homepage": "http://advanced-alchemy.litestar.dev/",
+                        "id": 687666119,
+                        "language": "Python",
+                        "license": "MIT",
+                        "last_commit": "2026-10-07T00:45:16Z",
+                        "open_issues": 54,
+                        "owner": "litestar-org",
+                        "repo": "advanced-alchemy",
+                        "stars": 811,
+                        "topics": [
+                          "alembic",
+                          "cockroachdb",
+                          "duckdb",
+                          "fastapi",
+                          "flask",
+                          "litestar",
+                          "litestar-org",
+                          "mssql",
+                          "mysql",
+                          "oracle-db",
+                          "postgresql",
+                          "repository-pattern",
+                          "sanic",
+                          "spanner",
+                          "sqlalchemy",
+                          "sqlite",
+                          "sqlmodel",
+                          "starlette"
+                        ]
+                      },
+                      "first_seen": "2026-10-12T01:19:39.235Z"
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "sqlspec",
+                      "description": "A query mapper for Python with first-party adapters for Litestar, FastAPI, Flask, and Starlette.",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": "A Query Mapper for Python",
+                        "homepage": "https://sqlspec.dev",
+                        "id": 773112251,
+                        "language": "Python",
+                        "license": "MIT",
+                        "last_commit": "2026-10-11T14:46:45Z",
+                        "open_issues": 3,
+                        "owner": "litestar-org",
+                        "repo": "sqlspec",
+                        "stars": 103,
+                        "topics": [
+                          "adbc",
+                          "aiosqlite",
+                          "asyncmy",
+                          "asyncpg",
+                          "bigquery",
+                          "duckdb",
+                          "litestar",
+                          "msgspec",
+                          "mysql",
+                          "oracle",
+                          "oracledb",
+                          "postgresql",
+                          "psqlpy",
+                          "psycopg",
+                          "pydantic",
+                          "sql",
+                          "sqlite",
+                          "sqlserver"
+                        ]
+                      },
+                      "first_seen": "2026-10-12T01:19:39.235Z"
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "pytest-databases",
+                      "description": "Reusable database fixtures for any and all databases.",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": "Reusable database fixtures for any and all databases.",
+                        "homepage": "https://litestar-org.github.io/pytest-databases/",
+                        "id": 777981719,
+                        "language": "Python",
+                        "license": "MIT",
+                        "last_commit": "2026-09-21T11:42:55Z",
+                        "open_issues": 20,
+                        "owner": "litestar-org",
+                        "repo": "pytest-databases",
+                        "stars": 60,
+                        "topics": [
+                          "alloydb",
+                          "azure-blob-storage",
+                          "bigquery",
+                          "cockroachdb",
+                          "mariadb",
+                          "minio",
+                          "mysql",
+                          "oracle",
+                          "postgresql",
+                          "pytest",
+                          "pytest-plugin",
+                          "redis",
+                          "spanner",
+                          "sqlserver"
+                        ]
+                      },
+                      "first_seen": "2026-10-12T01:19:39.235Z"
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "fast-query-parsers",
+                      "description": "Ultra-fast query string and url-encoded form-data parsers.",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": "Ultra-fast query string and url-encoded form-data parsers",
+                        "homepage": null,
+                        "id": 570996058,
+                        "language": "Rust",
+                        "license": "MIT",
+                        "last_commit": "2026-09-29T03:22:46Z",
+                        "open_issues": 4,
+                        "owner": "litestar-org",
+                        "repo": "fast-query-parsers",
+                        "stars": 50,
+                        "topics": [
+                          "form-data",
+                          "hacktoberfest",
+                          "json",
+                          "json-parser",
+                          "litestar",
+                          "litestar-api",
+                          "litestar-framework",
+                          "litestar-meta",
+                          "parser",
+                          "python",
+                          "querystring",
+                          "rust",
+                          "starlite",
+                          "starlite-api"
+                        ]
+                      },
+                      "first_seen": "2026-10-12T01:19:39.235Z"
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "litestar-vite",
+                      "description": "A Vite adapter for Litestar.*",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": "Vite Plugin for Litestar",
+                        "homepage": "http://litestar-org.github.io/litestar-vite/",
+                        "id": 700151870,
+                        "language": "Python",
+                        "license": "MIT",
+                        "last_commit": "2026-10-11T06:48:10Z",
+                        "open_issues": 7,
+                        "owner": "litestar-org",
+                        "repo": "litestar-vite",
+                        "stars": 36,
+                        "topics": [
+                          "angular",
+                          "astrojs",
+                          "inertiajs",
+                          "litestar",
+                          "litestar-api",
+                          "litestar-framework",
+                          "nuxt",
+                          "react",
+                          "svelte",
+                          "sveltekit",
+                          "vite",
+                          "vitejs",
+                          "vue"
+                        ]
+                      },
+                      "first_seen": "2026-10-12T01:19:39.235Z"
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "litestar-django",
+                      "description": "Django model support for Litestar.*",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": "Django model support for Litestar.",
+                        "homepage": null,
+                        "id": 976797172,
+                        "language": "Python",
+                        "license": "MIT",
+                        "last_commit": "2025-05-19T12:33:15Z",
+                        "open_issues": 0,
+                        "owner": "litestar-org",
+                        "repo": "litestar-django",
+                        "stars": 20,
+                        "topics": [
+                          "django",
+                          "litestar",
+                          "openapi"
+                        ]
+                      },
+                      "first_seen": "2026-10-12T01:19:39.235Z"
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "type-lens",
+                      "description": "Runtime type introspection utilities.",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": "Runtime type introspection utilities",
+                        "homepage": "http://docs.type-lens.litestar.dev/",
+                        "id": 694060996,
+                        "language": "Python",
+                        "license": "MIT",
+                        "last_commit": "2026-09-19T00:15:15Z",
+                        "open_issues": 9,
+                        "owner": "litestar-org",
+                        "repo": "type-lens",
+                        "stars": 18,
+                        "topics": [
+                          "introspection",
+                          "litestar",
+                          "litestar-framework",
+                          "python",
+                          "python-typing",
+                          "type-hints",
+                          "types"
+                        ]
+                      },
+                      "first_seen": "2026-10-12T01:19:39.235Z"
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "litestar-email",
+                      "description": "Email integration with pluggable backends (SMTP, Resend, SendGrid, Mailgun).*",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": "Email integration for Litestar",
+                        "homepage": "https://litestar-org.github.io/litestar-email/",
+                        "id": 1127928526,
+                        "language": "Python",
+                        "license": "NOASSERTION",
+                        "last_commit": "2026-10-08T13:06:51Z",
+                        "open_issues": 7,
+                        "owner": "litestar-org",
+                        "repo": "litestar-email",
+                        "stars": 16,
+                        "topics": [
+                          "email",
+                          "litestar",
+                          "litestar-plugin",
+                          "resend",
+                          "sendgrid",
+                          "smtp"
+                        ]
+                      },
+                      "first_seen": "2026-10-12T01:19:39.235Z"
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "litestar-skills",
+                      "description": "First-party agent skills, plugins, subagents, and slash commands for Litestar and its ecosystem; installs across Claude Code, Codex CLI, Cursor, Gemini CLI, and OpenCode.",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": "Opinionated first-party agent skills, plugins, subagents, slash commands, and MCP servers for the Litestar framework ecosystem — publishable to Claude Code, Gemini CLI, Codex CLI, Cursor, OpenCode, and VS Code/Copilot from a single repo.",
+                        "homepage": "https://github.com/litestar-org/litestar-skills",
+                        "id": 1211628140,
+                        "language": "Python",
+                        "license": "MIT",
+                        "last_commit": "2026-10-04T14:36:55Z",
+                        "open_issues": 3,
+                        "owner": "litestar-org",
+                        "repo": "litestar-skills",
+                        "stars": 16,
+                        "topics": [
+                          "advanced-alchemy",
+                          "agent-skills",
+                          "agentskills",
+                          "ai-agents",
+                          "claude-code-plugin",
+                          "claude-code-skills",
+                          "gemini-cli-extension",
+                          "htmx",
+                          "inertia",
+                          "litestar",
+                          "mcp",
+                          "python",
+                          "sqlspec"
+                        ]
+                      },
+                      "first_seen": "2026-10-12T01:19:39.235Z"
+                    },
                     {
                       "node_type": "item",
                       "title": "litestar-asyncpg",
@@ -74,24 +412,24 @@
                     },
                     {
                       "node_type": "item",
-                      "title": "vite-plugin",
-                      "description": "A Vite adapter for Litestar.",
+                      "title": "litestar-htmx",
+                      "description": "A plugin for HTMX integration.*",
                       "children": [],
                       "repo_info": {
-                        "archived": true,
-                        "description": "Litestar Adapter for Vite",
+                        "archived": false,
+                        "description": "Litestar plugin for HTMX",
                         "homepage": null,
-                        "id": 711249998,
-                        "language": "TypeScript",
-                        "license": "NOASSERTION",
-                        "last_commit": "2024-08-05T23:21:23Z",
-                        "open_issues": 0,
+                        "id": 873940604,
+                        "language": "Python",
+                        "license": "MIT",
+                        "last_commit": "2026-10-05T08:49:07Z",
+                        "open_issues": 4,
                         "owner": "litestar-org",
-                        "repo": "vite-plugin",
-                        "stars": 7,
+                        "repo": "litestar-htmx",
+                        "stars": 12,
                         "topics": []
                       },
-                      "first_seen": "2026-08-28T06:07:05.068Z"
+                      "first_seen": "2026-10-12T01:19:39.235Z"
                     },
                     {
                       "node_type": "item",
@@ -113,6 +451,35 @@
                         "topics": []
                       },
                       "first_seen": "2026-08-28T06:07:05.068Z"
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "litestar-oracledb",
+                      "description": "An Oracle Database plugin for Litestar.*",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": "An Oracle Database plugin for Litestar",
+                        "homepage": null,
+                        "id": 849516625,
+                        "language": "Python",
+                        "license": "MIT",
+                        "last_commit": "2025-04-15T05:26:27Z",
+                        "open_issues": 2,
+                        "owner": "litestar-org",
+                        "repo": "litestar-oracledb",
+                        "stars": 4,
+                        "topics": [
+                          "litestar",
+                          "litestar-org",
+                          "litestar-plugin",
+                          "oracle",
+                          "oracle-database",
+                          "oracle-db",
+                          "oracle-integration"
+                        ]
+                      },
+                      "first_seen": "2026-10-12T01:19:39.235Z"
                     }
                   ],
                   "description": null,
@@ -179,8 +546,8 @@
                 "id": 879368249,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-10T20:18:07Z",
-                "open_issues": 8,
+                "last_commit": "2026-10-11T08:19:36Z",
+                "open_issues": 7,
                 "owner": "modern-python",
                 "repo": "modern-di",
                 "stars": 66,
@@ -228,7 +595,7 @@
             {
               "node_type": "item",
               "title": "litestar-saq",
-              "description": "A plugin for the SAQ job queuing framework*",
+              "description": "A plugin for the SAQ job queuing framework.*",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -274,6 +641,41 @@
             },
             {
               "node_type": "item",
+              "title": "litestar-mcp",
+              "description": "A plugin exposing route handlers as Model Context Protocol (MCP) tools and resources for AI agents.*",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Litestar plugin for Model Context Protocol (MCP) — expose route handlers as MCP tools and resources for AI agents.",
+                "homepage": "https://cofin.github.io/litestar-mcp/",
+                "id": 1051812038,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-10-09T20:15:06Z",
+                "open_issues": 0,
+                "owner": "cofin",
+                "repo": "litestar-mcp",
+                "stars": 13,
+                "topics": [
+                  "ai",
+                  "ai-agents",
+                  "asgi",
+                  "json-rpc",
+                  "litestar",
+                  "litestar-plugin",
+                  "llm",
+                  "mcp",
+                  "model-context-protocol",
+                  "oauth2",
+                  "plugin",
+                  "python",
+                  "tool-use"
+                ]
+              },
+              "first_seen": "2026-10-12T01:19:39.235Z"
+            },
+            {
+              "node_type": "item",
               "title": "litestar-svcs",
               "description": "A plugin for the SVCS service locater/dependency injection library.*",
               "children": [],
@@ -295,6 +697,32 @@
                 ]
               },
               "first_seen": "2026-08-28T06:07:05.068Z"
+            },
+            {
+              "node_type": "item",
+              "title": "litestar-socketify",
+              "description": "A plugin for the Socketify HTTP server.*",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Socketify plugin for Litestar",
+                "homepage": null,
+                "id": 699138943,
+                "language": "Makefile",
+                "license": "MIT",
+                "last_commit": "2023-10-08T16:14:26Z",
+                "open_issues": 1,
+                "owner": "cofin",
+                "repo": "litestar-socketify",
+                "stars": 11,
+                "topics": [
+                  "litestar",
+                  "litestar-api",
+                  "litestar-framework",
+                  "socketify"
+                ]
+              },
+              "first_seen": "2026-10-12T01:19:39.235Z"
             },
             {
               "node_type": "item",
@@ -384,6 +812,33 @@
                 "topics": []
               },
               "first_seen": "2026-08-28T06:07:05.068Z"
+            },
+            {
+              "node_type": "item",
+              "title": "litestar-httpx-oauth",
+              "description": "HTTPX OAuth integration for Litestar.*",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "HttpX OAuth Integration for Litestar",
+                "homepage": null,
+                "id": 669834256,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2023-10-02T16:54:13Z",
+                "open_issues": 0,
+                "owner": "cofin",
+                "repo": "litestar-httpx-oauth",
+                "stars": 0,
+                "topics": [
+                  "httpx",
+                  "litestar",
+                  "litestar-api",
+                  "litestar-framework",
+                  "oauth2"
+                ]
+              },
+              "first_seen": "2026-10-12T01:19:39.235Z"
             }
           ],
           "description": null,
@@ -453,6 +908,38 @@
             },
             {
               "node_type": "item",
+              "title": "adminsite",
+              "description": "Admin panel for SQLAlchemy 2.0, mounted straight into Litestar.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "An admin panel for the SQLAlchemy 2.0 ORM that works with FastAPI, Starlette and Litestar.",
+                "homepage": "https://nimaxin.github.io/adminsite/",
+                "id": 1378583496,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-10-11T17:41:39Z",
+                "open_issues": 1,
+                "owner": "nimaxin",
+                "repo": "adminsite",
+                "stars": 8,
+                "topics": [
+                  "admin",
+                  "admin-dashboard",
+                  "admin-panel",
+                  "asgi",
+                  "fastapi",
+                  "htmx",
+                  "litestar",
+                  "python",
+                  "sqlalchemy",
+                  "starlette"
+                ]
+              },
+              "first_seen": "2026-10-12T01:19:39.235Z"
+            },
+            {
+              "node_type": "item",
               "title": "StarletteAdminPlugin",
               "description": "Integrates Starlette Admin with a Litestar application.",
               "children": [],
@@ -515,7 +1002,7 @@
                 "id": 1195260042,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-04T19:49:57Z",
+                "last_commit": "2026-10-11T19:51:05Z",
                 "open_issues": 15,
                 "owner": "ZYLVEXT",
                 "repo": "litestar-auth",
@@ -639,7 +1126,7 @@
                 "id": 661287015,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-10T09:25:06Z",
+                "last_commit": "2026-10-12T01:15:56Z",
                 "open_issues": 2,
                 "owner": "apitally",
                 "repo": "apitally-py",
@@ -669,6 +1156,53 @@
           "description": null,
           "node_type": "group",
           "title": "Monitoring"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "interlock",
+              "description": "A modern circuit breaker for Python with sync and async support and a Litestar integration.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Circuit breaker for Python: sync + async in one class, sliding-window rate, slow-call detection, Polly-style resilience pipeline, type-safe API",
+                "homepage": "https://bagowix.github.io/interlock/",
+                "id": 1281712366,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-10-09T10:44:44Z",
+                "open_issues": 11,
+                "owner": "bagowix",
+                "repo": "interlock",
+                "stars": 76,
+                "topics": [
+                  "aiohttp",
+                  "asyncio",
+                  "bulkhead",
+                  "circuit-breaker",
+                  "circuit-breaker-pattern",
+                  "distributed-systems",
+                  "fastapi",
+                  "fault-tolerance",
+                  "httpx",
+                  "httpx2",
+                  "litestar",
+                  "opentelemetry",
+                  "python",
+                  "requests",
+                  "resilience",
+                  "retry",
+                  "slow-call-detection",
+                  "tenacity"
+                ]
+              },
+              "first_seen": "2026-10-12T01:19:39.235Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Other"
         },
         {
           "children": [
@@ -764,6 +1298,33 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "Litestar Fullstack with Inertia.js",
+                  "description": "A fully-functional reference application using Litestar, Inertia.js, and Advanced Alchemy.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "A fully-functional reference application using Litestar, Inertia JS, and Advanced Alchemy",
+                    "homepage": "https://inertia.fullstack.litestar.dev",
+                    "id": 845266675,
+                    "language": "TypeScript",
+                    "license": "MIT",
+                    "last_commit": "2026-10-07T11:49:32Z",
+                    "open_issues": 8,
+                    "owner": "litestar-org",
+                    "repo": "litestar-fullstack-inertia",
+                    "stars": 44,
+                    "topics": [
+                      "advanced-alchemy",
+                      "fullstack",
+                      "inertiajs",
+                      "litestar",
+                      "sqlalchemy"
+                    ]
+                  },
+                  "first_seen": "2026-10-12T01:19:39.235Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "Litestar + SQLAlchemy 2 + PostgreSQL Template",
                   "description": "Dockerized starter with dependency injection and Alembic. Made by @modern-python.",
                   "children": [],
@@ -811,7 +1372,7 @@
                     "id": 1078016498,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-10-09T17:25:46Z",
+                    "last_commit": "2026-10-11T09:10:31Z",
                     "open_issues": 45,
                     "owner": "Peopl3s",
                     "repo": "clean-architecture-litestar-project-template",
@@ -839,6 +1400,33 @@
                     ]
                   },
                   "first_seen": "2026-08-28T06:07:05.068Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Litestar Hello World",
+                  "description": "A minimal implementation of a Litestar application.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "A minimal implementation of a Litestar application",
+                    "homepage": "https://litestar.dev",
+                    "id": 692562302,
+                    "language": "Makefile",
+                    "license": "MIT",
+                    "last_commit": "2026-07-28T04:04:25Z",
+                    "open_issues": 6,
+                    "owner": "litestar-org",
+                    "repo": "litestar-hello-world",
+                    "stars": 18,
+                    "topics": [
+                      "hacktoberfest",
+                      "litestar",
+                      "litestar-api",
+                      "litestar-framework",
+                      "litestar-template"
+                    ]
+                  },
+                  "first_seen": "2026-10-12T01:19:39.235Z"
                 },
                 {
                   "node_type": "item",
@@ -950,6 +1538,34 @@
                     ]
                   },
                   "first_seen": "2026-08-28T06:07:05.068Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Litestar Ping CRM",
+                  "description": "Ping CRM (Inertia.js) reference implementation for Litestar.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Ping CRM for Litestar",
+                    "homepage": null,
+                    "id": 912634782,
+                    "language": "Python",
+                    "license": "MIT",
+                    "last_commit": "2025-01-07T05:27:43Z",
+                    "open_issues": 0,
+                    "owner": "cofin",
+                    "repo": "litestar-pingcrm",
+                    "stars": 1,
+                    "topics": [
+                      "advanced-alchemy",
+                      "alembic",
+                      "inertiajs",
+                      "litestar",
+                      "pingcrm",
+                      "sqlalchemy"
+                    ]
+                  },
+                  "first_seen": "2026-10-12T01:19:39.235Z"
                 }
               ],
               "description": null,
@@ -958,6 +1574,34 @@
             },
             {
               "children": [
+                {
+                  "node_type": "item",
+                  "title": "Oracle DB + Vertex AI Demo",
+                  "description": "Reference application using Google ADK and Oracle Database.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Reference application using Google ADK and Oracle",
+                    "homepage": "https://cofin.github.io/oracledb-vertexai-demo/",
+                    "id": 856020892,
+                    "language": "Python",
+                    "license": "Apache-2.0",
+                    "last_commit": "2026-10-09T15:49:13Z",
+                    "open_issues": 12,
+                    "owner": "cofin",
+                    "repo": "oracledb-vertexai-demo",
+                    "stars": 22,
+                    "topics": [
+                      "adk-python",
+                      "gemini",
+                      "htmx",
+                      "litestar",
+                      "sqlspec",
+                      "vertex-ai"
+                    ]
+                  },
+                  "first_seen": "2026-10-12T01:19:39.235Z"
+                },
                 {
                   "node_type": "item",
                   "title": "Network Information API",
@@ -1027,7 +1671,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T01:00:21.160Z",
+    "last_updated": "2026-10-12T01:19:39.235Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources related to Litestar. ",
@@ -1035,8 +1679,8 @@
       "id": 677551554,
       "language": "Makefile",
       "license": "MIT",
-      "last_commit": "2026-07-07T16:43:15Z",
-      "open_issues": 3,
+      "last_commit": "2026-10-11T16:25:10Z",
+      "open_issues": 1,
       "owner": "litestar-org",
       "repo": "awesome-litestar",
       "stars": 168,
@@ -1050,7 +1694,7 @@
         "litestar-meta"
       ]
     },
-    "original_repository_sha": "d74237a14b6024c5a4f59aace4ed857604d3a2ef",
+    "original_repository_sha": "18a06dba3edf411a7d539c703a8468959a6138cd",
     "enhanced_repository": "enhansome/enhansome-litestar",
     "enhanced_repository_description": null,
     "title": "Awesome Litestar with stars"

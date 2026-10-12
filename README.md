@@ -16,11 +16,11 @@
 <!-- prettier-ignore-start -->
 <!-- markdown-link-check-disable -->
 
-| Project   |    | Status                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
-| --------- | :- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| CI/CD     |    | [![CI](https://github.com/litestar-org/awesome-litestar/actions/workflows/ci.yml/badge.svg)](https://github.com/litestar-org/awesome-litestar/actions/workflows/ci.yml) [![Link Check](https://github.com/litestar-org/awesome-litestar/actions/workflows/expired-links.yml/badge.svg)](https://github.com/litestar-org/awesome-litestar/actions/workflows/expired-links.yml)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
-| Community |    | [![Reddit](https://img.shields.io/reddit/subreddit-subscribers/litestarapi?label=r%2FLitestar\&logo=reddit\&labelColor=202235\&color=edb641\&logoColor=edb641)](https://www.reddit.com/r/litestarapi) [![Discord](https://img.shields.io/discord/919193495116337154?labelColor=202235\&color=edb641\&label=chat%20on%20discord\&logo=discord\&logoColor=edb641)](https://discord.com/invite/X3FJqy8d2j) [![Matrix](https://img.shields.io/badge/chat%20on%20Matrix-bridged-202235?labelColor=202235\&color=edb641\&logo=matrix\&logoColor=edb641)](https://matrix.to/#/#litestar:matrix.org) [![Twitter](https://img.shields.io/twitter/follow/LitestarAPI?labelColor=202235\&color=edb641\&logo=twitter\&logoColor=edb641\&style=flat)](https://twitter.com/LitestarAPI) [![Blog](https://img.shields.io/badge/Blog-litestar.dev-202235?logo=blogger\&labelColor=202235\&color=edb641\&logoColor=edb641)](https://blog.litestar.dev) |
-| Meta      |    | [![Litestar Project](https://img.shields.io/badge/Litestar%20Org-%E2%AD%90%20Litestar-202235.svg?logo=python\&labelColor=202235\&color=edb641\&logoColor=edb641)](https://github.com/litestar-org/awesome-litestar) [![Awesome](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/litestar-org/branding/main/assets/awesome.json)](https://github.com/litestar-org/awesome-litestar) [![License - MIT](https://img.shields.io/badge/license-MIT-202235.svg?logo=python\&labelColor=202235\&color=edb641\&logoColor=edb641)](https://spdx.org/licenses/) [![Litestar Sponsors](https://img.shields.io/badge/Sponsor-%E2%9D%A4-%23edb641.svg?\&logo=github\&logoColor=edb641\&labelColor=202235)](https://github.com/sponsors/litestar-org)                                                                                                                                                                         |
+| Project   |    | Status                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| --------- | :- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| CI/CD     |    | [![CI](https://github.com/litestar-org/awesome-litestar/actions/workflows/ci.yml/badge.svg)](https://github.com/litestar-org/awesome-litestar/actions/workflows/ci.yml) [![Link Check](https://github.com/litestar-org/awesome-litestar/actions/workflows/expired-links.yml/badge.svg)](https://github.com/litestar-org/awesome-litestar/actions/workflows/expired-links.yml)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Community |    | [![Reddit](https://img.shields.io/reddit/subreddit-subscribers/litestarapi?label=r%2FLitestar\&logo=reddit\&labelColor=202235\&color=edb641\&logoColor=edb641)](https://www.reddit.com/r/litestarapi) [![Discord](https://img.shields.io/discord/919193495116337154?labelColor=202235\&color=edb641\&label=chat%20on%20discord\&logo=discord\&logoColor=edb641)](https://discord.com/invite/X3FJqy8d2j) [![Matrix](https://img.shields.io/badge/chat%20on%20Matrix-bridged-202235?labelColor=202235\&color=edb641\&logo=matrix\&logoColor=edb641)](https://matrix.to/#/#litestar:matrix.org) [![Twitter](https://img.shields.io/twitter/follow/LitestarAPI?labelColor=202235\&color=edb641\&logo=twitter\&logoColor=edb641\&style=flat)](https://x.com/LitestarAPI) [![Blog](https://img.shields.io/badge/Blog-litestar.dev-202235?logo=blogger\&labelColor=202235\&color=edb641\&logoColor=edb641)](https://blog.litestar.dev) |
+| Meta      |    | [![Litestar Project](https://img.shields.io/badge/Litestar%20Org-%E2%AD%90%20Litestar-202235.svg?logo=python\&labelColor=202235\&color=edb641\&logoColor=edb641)](https://github.com/litestar-org/awesome-litestar) [![Awesome](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/litestar-org/branding/main/assets/awesome.json)](https://github.com/litestar-org/awesome-litestar) [![License - MIT](https://img.shields.io/badge/license-MIT-202235.svg?logo=python\&labelColor=202235\&color=edb641\&logoColor=edb641)](https://spdx.org/licenses/) [![Litestar Sponsors](https://img.shields.io/badge/Sponsor-%E2%9D%A4-%23edb641.svg?\&logo=github\&logoColor=edb641\&labelColor=202235)](https://github.com/sponsors/litestar-org)                                                                                                                                                                   |
 
 <!-- prettier-ignore-end -->
 
@@ -29,7 +29,7 @@
 <!--lint disable no-undefined-references-->
 
 > \[!IMPORTANT]\
-> [***Starlite has been renamed to Litestar***](https://litestar.dev/about/organization.html#litestar-and-starlite)
+> [***Starlite has been renamed to Litestar***](https://docs.litestar.dev/latest/release-notes/whats-new-2.html#starlite-litestar)
 
 # Awesome Litestar with stars
 
@@ -87,19 +87,30 @@ framework
 
 <!--lint ignore awesome-list-item-->
 
-* [Source Code](https://github.com/litestar-org/litestar) ⭐ 8,506 | 🐛 359 | 🌐 Python | 📅 2026-10-06 is hosted on GitHub.
+* [Source Code](https://github.com/litestar-org/litestar) ⭐ 8,511 | 🐛 359 | 🌐 Python | 📅 2026-10-06 is hosted on GitHub.
 * [Documentation](https://docs.litestar.dev/) includes comprehensive API reference docs as well as usage guides.
 * [Tutorial](https://docs.litestar.dev/latest/tutorials/) on Litestar, for people that are new to Litestar.
-* Connect with the Litestar community on [Discord](https://discord.com/invite/X3FJqy8d2j), [Twitter](https://twitter.com/LitestarAPI), and [Reddit](https://www.reddit.com/r/litestarapi).
+* Connect with the Litestar community on [Discord](https://discord.com/invite/X3FJqy8d2j), [Twitter](https://x.com/LitestarAPI), and [Reddit](https://www.reddit.com/r/litestarapi).
 * [Litestar Blog](https://blog.litestar.dev/) - The official Litestar blog.
 
 <!-- markdown-link-check-enable -->
 
 #### Internal Utils
 
+* [`polyfactory`](https://github.com/litestar-org/polyfactory) ⭐ 1,516 | 🐛 81 | 🌐 Python | 📅 2026-10-11 - Simple and powerful factories for mock data generation.
+* [`advanced-alchemy`](https://github.com/litestar-org/advanced-alchemy) ⭐ 811 | 🐛 54 | 🌐 Python | 📅 2026-10-07 - A carefully crafted, thoroughly tested, optimized companion library for SQLAlchemy with first-party Litestar integration.
+* [`sqlspec`](https://github.com/litestar-org/sqlspec) ⭐ 103 | 🐛 3 | 🌐 Python | 📅 2026-10-11 - A query mapper for Python with first-party adapters for Litestar, FastAPI, Flask, and Starlette.
+* [`pytest-databases`](https://github.com/litestar-org/pytest-databases) ⭐ 60 | 🐛 20 | 🌐 Python | 📅 2026-09-21 - Reusable database fixtures for any and all databases.
+* [`fast-query-parsers`](https://github.com/litestar-org/fast-query-parsers) ⭐ 50 | 🐛 4 | 🌐 Rust | 📅 2026-09-29 - Ultra-fast query string and url-encoded form-data parsers.
+* [`litestar-vite`](https://github.com/litestar-org/litestar-vite) ⭐ 36 | 🐛 7 | 🌐 Python | 📅 2026-10-11 - A Vite adapter for Litestar.<sup>\*</sup>
+* [`litestar-django`](https://github.com/litestar-org/litestar-django) ⭐ 20 | 🐛 0 | 🌐 Python | 📅 2025-05-19 - Django model support for Litestar.<sup>\*</sup>
+* [`type-lens`](https://github.com/litestar-org/type-lens) ⭐ 18 | 🐛 9 | 🌐 Python | 📅 2026-09-19 - Runtime type introspection utilities.
+* [`litestar-email`](https://github.com/litestar-org/litestar-email) ⭐ 16 | 🐛 7 | 🌐 Python | 📅 2026-10-08 - Email integration with pluggable backends (SMTP, Resend, SendGrid, Mailgun).<sup>\*</sup>
+* [`litestar-skills`](https://github.com/litestar-org/litestar-skills) ⭐ 16 | 🐛 3 | 🌐 Python | 📅 2026-10-04 - First-party agent skills, plugins, subagents, and slash commands for Litestar and its ecosystem; installs across Claude Code, Codex CLI, Cursor, Gemini CLI, and OpenCode.
 * [`litestar-asyncpg`](https://github.com/litestar-org/litestar-asyncpg) ⭐ 15 | 🐛 4 | 🌐 Python | 📅 2026-10-07 - A plugin for the AsyncPG database driver.<sup>\*</sup>
-* [`litestar-vite`](https://github.com/litestar-org/vite-plugin) ⚠️ Archived - A Vite adapter for Litestar.
+* [`litestar-htmx`](https://github.com/litestar-org/litestar-htmx) ⭐ 12 | 🐛 4 | 🌐 Python | 📅 2026-10-05 - A plugin for HTMX integration.<sup>\*</sup>
 * [`litestar-piccolo`](https://github.com/litestar-org/litestar-piccolo) ⭐ 6 | 🐛 2 | 🌐 Python | 📅 2024-11-25 - A Piccolo ORM adapter for Litestar.<sup>\*</sup>
+* [`litestar-oracledb`](https://github.com/litestar-org/litestar-oracledb) ⭐ 4 | 🐛 2 | 🌐 Python | 📅 2025-04-15 - An Oracle Database plugin for Litestar.<sup>\*</sup>
 
 ##### Built-in Extensions
 
@@ -123,28 +134,32 @@ that you would normally find as third-party extensions in other frameworks.
 ### General
 
 * [`dishka`](https://github.com/reagento/dishka) ⭐ 1,294 | 🐛 63 | 🌐 Python | 📅 2026-10-07 - Cute DI framework with agreeable API and everything you need, including [Litestar integration](https://dishka.readthedocs.io/en/stable/integrations/index.html).
-* [`modern-di`](https://github.com/modern-python/modern-di) ⭐ 66 | 🐛 8 | 🌐 Python | 📅 2026-10-10 - Dependency injection framework with IoC container and scopes, including [Litestar integration](https://github.com/modern-python/modern-di-litestar) ⭐ 0 | 🐛 1 | 🌐 Python | 📅 2026-10-10.
-* [`litestar-granian`](https://github.com/cofin/litestar-granian) ⭐ 44 | 🐛 4 | 🌐 Python | 📅 2026-09-29 - A plugin for the [Granian](https://github.com/emmett-framework/granian) ⭐ 5,695 | 🐛 52 | 🌐 Rust | 📅 2026-10-07 HTTP server, written in Rust.<sup>\*</sup>
-* [`litestar-saq`](https://github.com/litestar-org/litestar-saq) ⭐ 34 | 🐛 10 | 🌐 Python | 📅 2026-10-07 - A plugin for the [SAQ job queuing framework](https://github.com/tobymao/saq) ⭐ 890 | 🐛 0 | 🌐 Python | 📅 2026-08-14<sup>\*</sup>
+* [`modern-di`](https://github.com/modern-python/modern-di) ⭐ 66 | 🐛 7 | 🌐 Python | 📅 2026-10-11 - Dependency injection framework with IoC container and scopes, including [Litestar integration](https://github.com/modern-python/modern-di-litestar) ⭐ 0 | 🐛 1 | 🌐 Python | 📅 2026-10-10.
+* [`litestar-granian`](https://github.com/cofin/litestar-granian) ⭐ 44 | 🐛 4 | 🌐 Python | 📅 2026-09-29 - A plugin for the [Granian](https://github.com/emmett-framework/granian) ⭐ 5,696 | 🐛 52 | 🌐 Rust | 📅 2026-10-07 HTTP server, written in Rust.<sup>\*</sup>
+* [`litestar-saq`](https://github.com/litestar-org/litestar-saq) ⭐ 34 | 🐛 10 | 🌐 Python | 📅 2026-10-07 - A plugin for the [SAQ job queuing framework](https://github.com/tobymao/saq) ⭐ 890 | 🐛 0 | 🌐 Python | 📅 2026-08-14.<sup>\*</sup>
 * [`litestar-taskiq`](https://github.com/taskiq-python/taskiq-litestar) ⭐ 20 | 🐛 1 | 🌐 Python | 📅 2026-04-25 - [Taskiq](https://taskiq-python.github.io/) integration for Litestar.
+* [`litestar-mcp`](https://github.com/cofin/litestar-mcp) ⭐ 13 | 🐛 0 | 🌐 Python | 📅 2026-10-09 - A plugin exposing route handlers as Model Context Protocol (MCP) tools and resources for AI agents.<sup>\*</sup>
 * [`litestar-svcs`](https://github.com/vkcku/litestar-svcs) ⭐ 11 | 🐛 0 | 🌐 Python | 📅 2023-11-30 - A plugin for the [SVCS](https://github.com/hynek/svcs) ⭐ 423 | 🐛 1 | 🌐 Python | 📅 2026-10-01 service locater/dependency injection library.<sup>\*</sup>
+* [`litestar-socketify`](https://github.com/cofin/litestar-socketify) ⭐ 11 | 🐛 1 | 🌐 Makefile | 📅 2023-10-08 - A plugin for the [Socketify](https://github.com/cirospaciari/socketify.py) ⭐ 1,716 | 🐛 51 | 🌐 Python | 📅 2026-08-17 HTTP server.<sup>\*</sup>
 * [`litestar-saq-htmx`](https://github.com/euri10/litestar_saq_htmx) ⚠️ Archived - Proof of concept using SAQ, Litestar, HTMX, and Server-Sent events for a simple SAQ job monitor.
 * [`litestar-MQTT`](https://github.com/Alurith/litestar-mqtt) ⭐ 5 | 🐛 0 | 🌐 Python | 📅 2023-08-31 - A plugin for the MQTT protocol.
 * [`litestar-aiosql`](https://github.com/cofin/litestar-aiosql) ⭐ 5 | 🐛 0 | 🌐 Makefile | 📅 2024-09-17 - A plugin for the [aiosql](https://github.com/nackjicholson/aiosql) ⭐ 1,412 | 🐛 1 | 🌐 Python | 📅 2026-08-15 database query builder.<sup>\*</sup>
 * [`litestar-psycopg`](https://github.com/Kumokage/litestar-psycopg) ⭐ 2 | 🐛 0 | 🌐 Python | 📅 2025-05-17 - A plugin for the [Psycopg](https://www.psycopg.org/psycopg3/docs/) database driver.
+* [`litestar-httpx-oauth`](https://github.com/cofin/litestar-httpx-oauth) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2023-10-02 - HTTPX OAuth integration for Litestar.<sup>\*</sup>
 
 ### Admin
 
 * [Piccolo Admin](https://github.com/piccolo-orm/piccolo_admin) ⭐ 466 | 🐛 39 | 🌐 Python | 📅 2026-06-19 - A powerful and modern admin GUI, using the Piccolo
   ORM.
 * [SQLAdminPlugin](https://github.com/peterschutt/sqladmin-litestar-plugin) ⭐ 33 | 🐛 8 | 🌐 Python | 📅 2025-12-15 - Integrates SQLAdmin with a Litestar application.
+* [adminsite](https://github.com/nimaxin/adminsite) ⭐ 8 | 🐛 1 | 🌐 Python | 📅 2026-10-11 - Admin panel for SQLAlchemy 2.0, mounted straight into Litestar.
 * [StarletteAdminPlugin](https://github.com/noamsto/starlette-admin-litestar-plugin) ⚠️ Archived - Integrates Starlette Admin with a Litestar application.
 
 ### Auth
 
 * [`litestar-users`](https://github.com/mvbosch/litestar-users) ⭐ 99 | 🐛 6 | 🌐 Python | 📅 2026-07-10 - Authentication and user management for the
   Litestar framework.<sup>\*</sup>
-* [`litestar-auth`](https://github.com/ZYLVEXT/litestar-auth) ⭐ 3 | 🐛 15 | 🌐 Python | 📅 2026-10-04 - Production-ready authentication and authorization library for Litestar with JWT, password hashing, SQLAlchemy/Advanced Alchemy integration, optional Redis session storage, OAuth, and TOTP support.
+* [`litestar-auth`](https://github.com/ZYLVEXT/litestar-auth) ⭐ 3 | 🐛 15 | 🌐 Python | 📅 2026-10-11 - Production-ready authentication and authorization library for Litestar with JWT, password hashing, SQLAlchemy/Advanced Alchemy integration, optional Redis session storage, OAuth, and TOTP support.
 
 ### Databases
 
@@ -165,9 +180,11 @@ that you would normally find as third-party extensions in other frameworks.
 
 ### Monitoring
 
-* [`apitally`](https://github.com/apitally/apitally-py) ⭐ 224 | 🐛 2 | 🌐 Python | 📅 2026-10-10 - A plugin for easy API monitoring with [Apitally](https://apitally.io/litestar) (including API traffic, errors, response times, payload sizes and uptime).<sup>\*</sup>
+* [`apitally`](https://github.com/apitally/apitally-py) ⭐ 224 | 🐛 2 | 🌐 Python | 📅 2026-10-12 - A plugin for easy API monitoring with [Apitally](https://apitally.io/litestar) (including API traffic, errors, response times, payload sizes and uptime).<sup>\*</sup>
 
 ### Other
+
+* [`interlock-cb`](https://github.com/bagowix/interlock) ⭐ 76 | 🐛 11 | 🌐 Python | 📅 2026-10-09 - A modern circuit breaker for Python with sync and async support and a [Litestar integration](https://github.com/bagowix/interlock/blob/main/docs/integrations/litestar.md) ⭐ 76 | 🐛 11 | 🌐 Python | 📅 2026-10-09.
 
 #### Developer Tools
 
@@ -269,12 +286,15 @@ that you would normally find as third-party extensions in other frameworks.
 <!--lint ignore awesome-list-item-->
 
 * [Litestar Fullstack with Vite, VueJS, Redis, PostgreSQL, and more](https://github.com/litestar-org/litestar-fullstack) ⭐ 612 | 🐛 17 | 🌐 Python | 📅 2026-10-10 - Made by [@cofin](https://github.com/cofin/).
+* [Litestar Fullstack with Inertia.js](https://github.com/litestar-org/litestar-fullstack-inertia) ⭐ 44 | 🐛 8 | 🌐 TypeScript | 📅 2026-10-07 - A fully-functional reference application using Litestar, Inertia.js, and Advanced Alchemy.
 * [Litestar + SQLAlchemy 2 + PostgreSQL Template](https://github.com/modern-python/litestar-sqlalchemy-template) ⭐ 35 | 🐛 0 | 🌐 Python | 📅 2026-10-09 - Dockerized starter with dependency injection and Alembic. Made by [@modern-python](https://github.com/modern-python).
-  <!--lint ignore awesome-list-item-->
-* [Clean Architecture Litestar Project Template](https://github.com/Peopl3s/clean-architecture-litestar-project-template) ⭐ 26 | 🐛 45 | 🌐 Python | 📅 2026-10-09
+* [Clean Architecture Litestar Project Template](https://github.com/Peopl3s/clean-architecture-litestar-project-template) ⭐ 26 | 🐛 45 | 🌐 Python | 📅 2026-10-11
+* [Litestar Hello World](https://github.com/litestar-org/litestar-hello-world) ⭐ 18 | 🐛 6 | 🌐 Makefile | 📅 2026-07-28 - A minimal implementation of a Litestar application.
 * [Basic Litestar App](https://github.com/JacobCoffee/litestar-template) ⭐ 8 | 🐛 2 | 🌐 CSS | 📅 2024-10-10 - Basic Litestar app with TailwindCSS.
 * [Example Litestar Service](https://github.com/andy-takker/example-litestar-service) ⭐ 5 | 🐛 0 | 🌐 Python | 📅 2026-06-10 - Production-ready Litestar service template with clean architecture, dishka DI, JWT auth with RBAC, NATS via FastStream, and observability.
 * [Hexagonal Architecture Litestar Project Example](https://github.com/Peopl3s/litestar-hexagonal-architecture-example) ⭐ 4 | 🐛 0 | 🌐 Python | 📅 2025-11-28
+* [Litestar Ping CRM](https://github.com/cofin/litestar-pingcrm) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2025-01-07 - Ping CRM (Inertia.js) reference implementation for Litestar.
+  <!--lint ignore awesome-list-item-->
 
 #### Docker Images
 
@@ -285,6 +305,7 @@ that you would normally find as third-party extensions in other frameworks.
 
 #### Open Source Projects
 
+* [Oracle DB + Vertex AI Demo](https://github.com/cofin/oracledb-vertexai-demo) ⭐ 22 | 🐛 12 | 🌐 Python | 📅 2026-10-09 - Reference application using Google ADK and Oracle Database.
 * [Network Information API](https://github.com/JacobCoffee/niapi) ⭐ 17 | 🐛 12 | 🌐 Python | 📅 2024-04-28 - Toy app with TailwindCSS and HTMX.
 * [Litestar with OAuth2 Example](https://github.com/johnfaucette/litestar-oauth2-example) ⭐ 11 | 🐛 0 | 🌐 Python | 📅 2023-07-26 - Example of using Litestar with OAuth2.
 
@@ -292,4 +313,4 @@ that you would normally find as third-party extensions in other frameworks.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-12._
