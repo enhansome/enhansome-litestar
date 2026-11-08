@@ -87,7 +87,7 @@ framework
 
 <!--lint ignore awesome-list-item-->
 
-* [Source Code](https://github.com/litestar-org/litestar) ⭐ 8,535 | 🐛 364 | 🌐 Python | 📅 2026-11-06 is hosted on GitHub.
+* [Source Code](https://github.com/litestar-org/litestar) ⭐ 8,537 | 🐛 349 | 🌐 Python | 📅 2026-11-06 is hosted on GitHub.
 * [Documentation](https://docs.litestar.dev/) includes comprehensive API reference docs as well as usage guides.
 * [Tutorial](https://docs.litestar.dev/latest/tutorials/) on Litestar, for people that are new to Litestar.
 * Connect with the Litestar community on [Discord](https://discord.com/invite/X3FJqy8d2j), [Twitter](https://x.com/LitestarAPI), and [Reddit](https://www.reddit.com/r/litestarapi).
@@ -98,9 +98,9 @@ framework
 #### Internal Utils
 
 * [`polyfactory`](https://github.com/litestar-org/polyfactory) ⭐ 1,521 | 🐛 83 | 🌐 Python | 📅 2026-11-03 - Simple and powerful factories for mock data generation.
-* [`advanced-alchemy`](https://github.com/litestar-org/advanced-alchemy) ⭐ 816 | 🐛 58 | 🌐 Python | 📅 2026-11-03 - A carefully crafted, thoroughly tested, optimized companion library for SQLAlchemy with first-party Litestar integration.
-* [`sqlspec`](https://github.com/litestar-org/sqlspec) ⭐ 108 | 🐛 4 | 🌐 Python | 📅 2026-11-06 - A query mapper for Python with first-party adapters for Litestar, FastAPI, Flask, and Starlette.
-* [`pytest-databases`](https://github.com/litestar-org/pytest-databases) ⭐ 61 | 🐛 29 | 🌐 Python | 📅 2026-11-01 - Reusable database fixtures for any and all databases.
+* [`advanced-alchemy`](https://github.com/litestar-org/advanced-alchemy) ⭐ 816 | 🐛 56 | 🌐 Python | 📅 2026-11-07 - A carefully crafted, thoroughly tested, optimized companion library for SQLAlchemy with first-party Litestar integration.
+* [`sqlspec`](https://github.com/litestar-org/sqlspec) ⭐ 108 | 🐛 4 | 🌐 Python | 📅 2026-11-07 - A query mapper for Python with first-party adapters for Litestar, FastAPI, Flask, and Starlette.
+* [`pytest-databases`](https://github.com/litestar-org/pytest-databases) ⭐ 61 | 🐛 29 | 🌐 Python | 📅 2026-11-08 - Reusable database fixtures for any and all databases.
 * [`fast-query-parsers`](https://github.com/litestar-org/fast-query-parsers) ⭐ 50 | 🐛 5 | 🌐 Rust | 📅 2026-11-02 - Ultra-fast query string and url-encoded form-data parsers.
 * [`litestar-vite`](https://github.com/litestar-org/litestar-vite) ⭐ 37 | 🐛 2 | 🌐 Python | 📅 2026-11-03 - A Vite adapter for Litestar.<sup>\*</sup>
 * [`litestar-django`](https://github.com/litestar-org/litestar-django) ⭐ 20 | 🐛 0 | 🌐 Python | 📅 2025-05-19 - Django model support for Litestar.<sup>\*</sup>
@@ -133,7 +133,7 @@ that you would normally find as third-party extensions in other frameworks.
 
 ### General
 
-* [`dishka`](https://github.com/reagento/dishka) ⭐ 1,303 | 🐛 70 | 🌐 Python | 📅 2026-11-01 - Cute DI framework with agreeable API and everything you need, including [Litestar integration](https://dishka.readthedocs.io/en/stable/integrations/index.html).
+* [`dishka`](https://github.com/reagento/dishka) ⭐ 1,304 | 🐛 70 | 🌐 Python | 📅 2026-11-01 - Cute DI framework with agreeable API and everything you need, including [Litestar integration](https://dishka.readthedocs.io/en/stable/integrations/index.html).
 * [`modern-di`](https://github.com/modern-python/modern-di) ⭐ 66 | 🐛 0 | 🌐 Python | 📅 2026-11-06 - Dependency injection framework with IoC container and scopes, including [Litestar integration](https://github.com/modern-python/modern-di-litestar) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2026-10-24.
 * [`litestar-granian`](https://github.com/cofin/litestar-granian) ⭐ 44 | 🐛 0 | 🌐 Python | 📅 2026-11-02 - A plugin for the [Granian](https://github.com/emmett-framework/granian) ⭐ 5,768 | 🐛 54 | 🌐 Rust | 📅 2026-11-04 HTTP server, written in Rust.<sup>\*</sup>
 * [`litestar-saq`](https://github.com/litestar-org/litestar-saq) ⭐ 36 | 🐛 12 | 🌐 Python | 📅 2026-10-26 - A plugin for the [SAQ job queuing framework](https://github.com/tobymao/saq) ⭐ 896 | 🐛 1 | 🌐 Python | 📅 2026-10-29.<sup>\*</sup>
@@ -151,7 +151,7 @@ that you would normally find as third-party extensions in other frameworks.
 
 * [Piccolo Admin](https://github.com/piccolo-orm/piccolo_admin) ⭐ 466 | 🐛 39 | 🌐 Python | 📅 2026-06-19 - A powerful and modern admin GUI, using the Piccolo
   ORM.
-* [adminsite](https://github.com/nimaxin/adminsite) ⭐ 74 | 🐛 3 | 🌐 Python | 📅 2026-11-04 - Admin panel for SQLAlchemy 2.0, mounted straight into Litestar.
+* [adminsite](https://github.com/nimaxin/adminsite) ⭐ 74 | 🐛 2 | 🌐 Python | 📅 2026-11-04 - Admin panel for SQLAlchemy 2.0, mounted straight into Litestar.
 * [SQLAdminPlugin](https://github.com/peterschutt/sqladmin-litestar-plugin) ⭐ 32 | 🐛 6 | 🌐 Python | 📅 2025-12-15 - Integrates SQLAdmin with a Litestar application.
 * [StarletteAdminPlugin](https://github.com/noamsto/starlette-admin-litestar-plugin) ⚠️ Archived - Integrates Starlette Admin with a Litestar application.
 
@@ -180,7 +180,7 @@ that you would normally find as third-party extensions in other frameworks.
 
 ### Monitoring
 
-* [`apitally`](https://github.com/apitally/apitally-py) ⭐ 224 | 🐛 1 | 🌐 Python | 📅 2026-11-06 - A plugin for easy API monitoring with [Apitally](https://apitally.io/litestar) (including API traffic, errors, response times, payload sizes and uptime).<sup>\*</sup>
+* [`apitally`](https://github.com/apitally/apitally-py) ⭐ 224 | 🐛 1 | 🌐 Python | 📅 2026-11-07 - A plugin for easy API monitoring with [Apitally](https://apitally.io/litestar) (including API traffic, errors, response times, payload sizes and uptime).<sup>\*</sup>
 
 ### Other
 
@@ -305,7 +305,7 @@ that you would normally find as third-party extensions in other frameworks.
 
 #### Open Source Projects
 
-* [Cloud in a Bottle](https://github.com/cloud-in-a-bottle/cloud-in-a-bottle) ⭐ 1,244 | 🐛 20 | 🌐 Python | 📅 2026-11-07 - Self-hosted platform for deploying Git-sourced apps on your own server, with a Litestar control plane and dashboard.
+* [Cloud in a Bottle](https://github.com/cloud-in-a-bottle/cloud-in-a-bottle) ⭐ 1,244 | 🐛 23 | 🌐 Python | 📅 2026-11-07 - Self-hosted platform for deploying Git-sourced apps on your own server, with a Litestar control plane and dashboard.
 * [Oracle DB + Vertex AI Demo](https://github.com/cofin/oracledb-vertexai-demo) ⭐ 22 | 🐛 6 | 🌐 Python | 📅 2026-11-05 - Reference application using Google ADK and Oracle Database.
 * [Network Information API](https://github.com/JacobCoffee/niapi) ⭐ 17 | 🐛 12 | 🌐 Python | 📅 2024-04-28 - Toy app with TailwindCSS and HTMX.
 * [Litestar with OAuth2 Example](https://github.com/johnfaucette/litestar-oauth2-example) ⭐ 11 | 🐛 0 | 🌐 Python | 📅 2023-07-26 - Example of using Litestar with OAuth2.
@@ -314,4 +314,4 @@ that you would normally find as third-party extensions in other frameworks.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-08._
