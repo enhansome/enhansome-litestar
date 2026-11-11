@@ -19,11 +19,11 @@
                     "id": 435625572,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-11-09T13:43:25Z",
+                    "last_commit": "2026-11-10T11:44:12Z",
                     "open_issues": 350,
                     "owner": "litestar-org",
                     "repo": "litestar",
-                    "stars": 8545,
+                    "stars": 8547,
                     "topics": [
                       "api",
                       "asgi",
@@ -132,8 +132,8 @@
                         "id": 773112251,
                         "language": "Python",
                         "license": "MIT",
-                        "last_commit": "2026-11-10T03:22:49Z",
-                        "open_issues": 3,
+                        "last_commit": "2026-11-10T22:52:16Z",
+                        "open_issues": 7,
                         "owner": "litestar-org",
                         "repo": "sqlspec",
                         "stars": 108,
@@ -173,7 +173,7 @@
                         "language": "Python",
                         "license": "MIT",
                         "last_commit": "2026-11-09T11:43:06Z",
-                        "open_issues": 5,
+                        "open_issues": 17,
                         "owner": "litestar-org",
                         "repo": "pytest-databases",
                         "stars": 62,
@@ -546,7 +546,7 @@
                 "id": 879368249,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-06T15:41:34Z",
+                "last_commit": "2026-11-10T19:22:33Z",
                 "open_issues": 0,
                 "owner": "modern-python",
                 "repo": "modern-di",
@@ -580,7 +580,7 @@
                 "open_issues": 1,
                 "owner": "cofin",
                 "repo": "litestar-granian",
-                "stars": 44,
+                "stars": 45,
                 "topics": [
                   "asgi",
                   "asgi-server",
@@ -656,7 +656,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-11-07T00:33:18Z",
-                "open_issues": 0,
+                "open_issues": 6,
                 "owner": "cofin",
                 "repo": "litestar-mcp",
                 "stars": 13,
@@ -867,7 +867,7 @@
                 "open_issues": 39,
                 "owner": "piccolo-orm",
                 "repo": "piccolo_admin",
-                "stars": 466,
+                "stars": 467,
                 "topics": [
                   "admin",
                   "asgi",
@@ -1207,6 +1207,51 @@
               "children": [
                 {
                   "node_type": "item",
+                  "title": "pytest-queryguard",
+                  "description": "A pytest plugin that fails tests sending N+1 queries through SQLAlchemy 2 and enforces per-test query budgets, with a Litestar recipe.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "pytest plugin that catches N+1 queries and enforces query budgets for SQLAlchemy 2 (sync, async, FastAPI)",
+                    "homepage": "https://maciejziel.github.io/pytest-queryguard/",
+                    "id": 1413718604,
+                    "language": "Python",
+                    "license": "MIT",
+                    "last_commit": "2026-11-10T16:26:08Z",
+                    "open_issues": 4,
+                    "owner": "MaciejZiel",
+                    "repo": "pytest-queryguard",
+                    "stars": 1,
+                    "topics": [
+                      "database",
+                      "fastapi",
+                      "flask",
+                      "n-plus-one",
+                      "nplusone",
+                      "orm",
+                      "performance",
+                      "postgresql",
+                      "pytest",
+                      "pytest-plugin",
+                      "python",
+                      "query-optimization",
+                      "sqlalchemy",
+                      "sqlmodel",
+                      "starlette",
+                      "testing"
+                    ]
+                  },
+                  "first_seen": "2026-11-11T01:55:35.811Z"
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Developer Tools"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
                   "title": "imgproxykit",
                   "description": "A typed Python toolkit for building imgproxy URLs with a Litestar plugin for client injection.*",
                   "children": [],
@@ -1269,7 +1314,7 @@
                         "open_issues": 498,
                         "owner": "aws",
                         "repo": "chalice",
-                        "stars": 11060,
+                        "stars": 11061,
                         "topics": [
                           "aws",
                           "aws-apigateway",
@@ -1415,8 +1460,8 @@
                     "id": 1078016498,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-11-09T20:38:00Z",
-                    "open_issues": 45,
+                    "last_commit": "2026-11-11T01:05:25Z",
+                    "open_issues": 46,
                     "owner": "Peopl3s",
                     "repo": "clean-architecture-litestar-project-template",
                     "stars": 28,
@@ -1629,11 +1674,11 @@
                     "id": 1212039950,
                     "language": "Python",
                     "license": "AGPL-3.0",
-                    "last_commit": "2026-11-09T19:32:26Z",
-                    "open_issues": 28,
+                    "last_commit": "2026-11-10T22:41:25Z",
+                    "open_issues": 25,
                     "owner": "cloud-in-a-bottle",
                     "repo": "cloud-in-a-bottle",
-                    "stars": 1244,
+                    "stars": 1245,
                     "topics": [
                       "app-platform",
                       "containers",
@@ -1744,7 +1789,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T04:06:41.587Z",
+    "last_updated": "2026-11-11T01:55:35.811Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources related to Litestar. ",
@@ -1752,7 +1797,7 @@
       "id": 677551554,
       "language": "Makefile",
       "license": "MIT",
-      "last_commit": "2026-11-09T15:09:07Z",
+      "last_commit": "2026-11-10T16:03:39Z",
       "open_issues": 2,
       "owner": "litestar-org",
       "repo": "awesome-litestar",
@@ -1767,7 +1812,7 @@
         "litestar-meta"
       ]
     },
-    "original_repository_sha": "8e038d053cc151b61ae536fd4edfb11e6414bfcb",
+    "original_repository_sha": "e15b7a39152f73cd173a79640f15bee7fa79a773",
     "enhanced_repository": "enhansome/enhansome-litestar",
     "enhanced_repository_description": null,
     "title": "Awesome Litestar with stars"
